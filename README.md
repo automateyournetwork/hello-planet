@@ -10,7 +10,7 @@ From “you are visitor 000042” to a planet you can turn, explore, and feel co
 >
 > — John Capobianco
 
-This is why the project exists. A counter can be a small reminder that somebody, somewhere, connected with something you made. **Star it if that resonates. Fork it and make your own world.** [Explore John's live globe](https://automateyournetwork.com/stats/).
+This is why the project exists. A counter can be a small reminder that somebody, somewhere, connected with something you made. **Star it if that resonates. Fork it and make your own world.** [Explore John's live globe](https://automateyournetwork.com/stats/). [Read the announcement and personal story](https://automateyournetwork.com/ai/hello-planet/).
 
 ## Run it
 

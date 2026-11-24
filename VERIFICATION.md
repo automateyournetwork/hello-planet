@@ -20,6 +20,6 @@ A browser-test update was needed because the finished retro interface puts the c
 
 ## CI and practical limits
 
-GitHub Actions runs type checks, Node tests, static build, Chromium browser tests, and PHP integration tests on Linux. Consult the workflow result for the exact commit. PHP is not installed in the local authoring shell, so no local PHP execution is claimed.
+[GitHub Actions run 45459170615](https://github.com/automateyournetwork/hello-planet/actions/runs/45459170615) passed both Node and PHP jobs for code commit `0ce7177`: type checks, Node tests, static build, Chromium browser tests, and PHP integration tests on Linux. Subsequent documentation-only changes link the published announcement and this evidence. PHP is not installed in the local authoring shell, so no local PHP execution is claimed.
 
 Live GeoIP resolution, production deployment on a new host, physical-device audio quality, and spoken-screen-reader use are not qualified by these standalone checks. Automated audio verification confirms nonzero, quantized 16-bit sample buffers at 22,050 Hz; it does not substitute for listening. Node dev/preview servers are local-only. A production collector and private persistent storage must be configured separately.
