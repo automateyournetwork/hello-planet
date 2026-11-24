@@ -1,0 +1,12 @@
+---
+import config from '../../globe.config.json';
+---
+<section class="hit-counter" aria-label="Page view counter" data-hit-counter>
+ <div class="hit-counter-label"><i aria-hidden="true"></i><span data-hit-label>CONNECTING TO LIVE COUNTER</span></div>
+ <div class="led-display"><span data-hit-number>{config.baselineViews.toLocaleString('en-CA')}</span></div>
+ <p data-hit-detail>Archived baseline + new page views · connecting…</p>
+</section>
+<script>
+ import {mountHitCounter} from '../lib/hit-counter';
+ document.querySelectorAll<HTMLElement>('[data-hit-counter]').forEach(mountHitCounter);
+</script>

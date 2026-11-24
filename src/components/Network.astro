@@ -1,0 +1,48 @@
+---
+import '../styles/atlas.css';
+import config from '../../globe.config.json';
+import HitCounter from './HitCounter.astro';
+import PCGlobe from './PCGlobe.astro';
+import landmarks from '../data/globe-landmarks.json';
+interface Props { expanded?:boolean; }
+const {expanded=false}=Astro.props;
+---
+<section class:list={['network-scene','visitor-observatory',{'observatory-expanded':expanded}]} aria-label="Interactive visitor globe" data-globe>
+ <div class="observatory-top"><span class="eyebrow cyan"><i class="status-dot"></i> HELLO, PLANET · PEOPLE BEHIND THE DOTS</span><a href="/stats/" class="mono">EXPLORE STATS ↗</a></div>
+ <HitCounter/>
+ <div class="globe-modes" role="group" aria-label="Globe views"><button data-mode="now" aria-pressed="true">Right now</button><button data-mode="today" aria-pressed="false">Today</button><button data-mode="history" aria-pressed="false">History</button><button data-mode="atlas" aria-pressed="false">PC GLOBE</button></div>
+ <PCGlobe>
+ <div class="atlas-panel" data-atlas-panel hidden>
+ <p class="eyebrow">PC GLOBE MODE · A LITTLE WONDER, 1987 → 2026</p>
+ <p>Pick a place. Follow your curiosity. These are geographic landmarks, independent of visitor counts.</p>
+ <label>Find a city or country <input type="search" data-atlas-search placeholder="Try Tokyo, Brazil, Nairobi…" /></label>
+ <label>Explore a place <select data-atlas-select aria-label="Atlas places"></select></label>
+ <div class="atlas-actions"><button data-atlas-surprise>Take me somewhere</button><a data-atlas-learn href="https://en.wikipedia.org/wiki/Geography" target="_blank" rel="noopener noreferrer">Read about this place ↗</a></div>
+ <p data-atlas-detail aria-live="polite">Choose one of 503 cities and capitals to begin.</p>
+ <small>Inspired by PC Globe; an original atlas view, not an emulator. Natural Earth reference data.</small>
+ </div>
+ </PCGlobe>
+ <div data-modern-globe>
+ <details class="globe-settings" open={expanded}><summary>Explore map settings</summary><div class="globe-connections" role="group" aria-label="Visual connection style"><span>CONNECT</span><button data-connections="mesh" aria-pressed="true">Pin to pin</button><button data-connections="home" aria-pressed="false">Home base</button><button data-connections="off" aria-pressed="false">Off</button></div>
+ <p class="globe-link-note"><span data-link-count>Pin connections</span> · Illustrative links, not measured routes</p>
+ <label class="globe-history-source" data-history-source-wrap>Historical source<select data-history-source aria-label="Historical source"><option value="jetpack">Jetpack · totals + country report</option><option value="ga">Google Analytics · 30 days</option></select></label>
+ <div class="globe-connections globe-geography" role="group" aria-label="Map detail"><span>MAP</span><button data-us-borders aria-pressed="true" disabled>US state borders</button><button data-ca-borders aria-pressed="true" disabled>Canada provinces</button><button data-landmarks aria-pressed="true" disabled>City landmarks</button><button data-control="us" disabled>View United States</button><button data-control="ca" disabled>View Canada</button><button data-control="eu" disabled>View Europe</button></div>
+ <label class="globe-history-source">Find a city landmark<select data-landmark-select disabled><option value="">Choose a city / capital</option>{landmarks.places.map(p=><option value={p.id}>{p.name}, {p.country} · {p.kind}</option>)}</select></label>
+ <p class="globe-map-note">Small white dots are city landmarks, not visitors. Purple diamonds are historical country totals. Cyan pins are approximate new visits; lime is you.</p>
+ </details><p class="globe-provenance" data-provenance>CONNECTING TO LIVE VISITORS</p>
+ <div class="globe-stage"><div class="network-aura"></div><svg class="network-fallback" viewBox="0 0 500 400" fill="none" aria-hidden="true"><defs><linearGradient id="globe-gradient"><stop stop-color="#ff3aa8"/><stop offset="1" stop-color="#54d6f5"/></linearGradient></defs><g stroke="url(#globe-gradient)" opacity=".5"><circle cx="250" cy="200" r="150"/><ellipse cx="250" cy="200" rx="75" ry="150"/><ellipse cx="250" cy="200" rx="150" ry="60"/><ellipse cx="250" cy="200" rx="150" ry="112"/><path d="M100 200H400M250 50V350"/></g><text x="250" y="205" text-anchor="middle" fill="#f0f1f7" font-size="13">A connected world</text></svg><div class="network-canvas" role="group" aria-label="A 3D globe showing approximate traffic regions; use the location buttons below as an accessible alternative"></div><div class="globe-point-label" data-point-label hidden></div><button class="globe-home-marker" data-home-pin aria-label={config.home.name} aria-expanded="false" aria-controls="globe-home-profile" hidden></button><div class="globe-home-popup" id="globe-home-profile" data-home-popup hidden><img src="/images/home-flags.svg" alt="Canadian and Québec flags" width="87" height="26"/><strong>{config.home.name}</strong><a href={config.home.url} target="_blank" rel="noopener noreferrer">About this home base ↗</a><button data-home-close aria-label="Close home profile">×</button></div><button class="globe-you-pin" data-you-pin aria-label="Your approximate location" hidden>YOU</button><div class="globe-home"><span>HOME BASE<strong>{config.home.label}</strong></span></div><div class="globe-tools" role="group" aria-label="Globe controls"><button data-control="home" disabled aria-label="Return globe to home base">⌂</button><button data-control="in" disabled aria-label="Zoom in">+</button><button data-control="out" disabled aria-label="Zoom out">−</button><button class="motion-control" data-control="motion" disabled aria-label="Pause globe rotation" aria-pressed="false">Ⅱ</button></div><span class="globe-instruction" data-interaction-hint>DRAG TO ORBIT · SCROLL TO ZOOM · SELECT A DOT</span></div>
+ <div class="globe-pin-key"><span class="home-key"><i></i> Home · select pink pin</span><span class="you-key"><i></i> You · current location</span><span><i data-traffic-symbol></i> <span data-traffic-legend>History · country totals</span></span><span class="landmark-key"><i></i> City landmarks</span></div><p class="globe-viewer-status" data-viewer-status>Your location is unavailable.</p>
+ <div class="globe-metrics"><div><strong data-metric="primary">—</strong><span data-label="primary">Active in last 90 sec</span></div><div><strong data-metric="secondary">—</strong><span data-label="secondary">Visitors today</span></div><div><strong data-metric="third">—</strong><span data-label="third">New page views</span></div></div>
+ <div class="globe-selection" aria-live="polite"><strong data-selection-title>Visitors exploring network automation.</strong><span data-selection-detail>Live visits appear here as people explore the site.</span></div>
+ <div class="globe-region-list" role="group" aria-label="Traffic locations" data-region-list></div>
+ <div class="globe-preview-controls" hidden data-preview-controls><button class="text-link" data-demo-toggle aria-pressed="false">Show example visitors</button><span>Local visits are counted; local IPs cannot be mapped to a city.</span></div>
+ <p class="globe-footnote" data-footnote>Total views: Nov 2020–Sep 24, 2026. Country pins: top ten, Jan 2024–Sep 24, 2026 only.</p>
+ <p class="globe-footnote"><a href="/stats/#routing">Explore observed BGP paths →</a><br/>Approximate location lookup: <a href="https://db-ip.com">IP Geolocation by DB-IP</a>. New visits use city estimates when available, otherwise state/province points. VPNs and mobile networks can place pins incorrectly. <a href="https://github.com/topojson/us-atlas">US boundaries: Census / US Atlas</a>. <a href="https://www.naturalearthdata.com/downloads/10m-cultural-vectors/">Canada boundaries and city landmarks: Natural Earth</a>.</p>
+ {!expanded&&<p class="globe-attribution">Approximate locations · <a href="https://db-ip.com">DB-IP</a> · <a href="/stats/">About the data ↗</a></p>}
+ </div>
+ <noscript><p>Enable JavaScript for live visits. <a href="/stats/">Browse the archived statistics →</a></p></noscript>
+</section>
+<script>
+ import {mountGlobe} from '../lib/globe';
+ document.querySelectorAll<HTMLElement>('[data-globe]').forEach(root=>void mountGlobe(root));
+</script>

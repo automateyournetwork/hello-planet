@@ -1,0 +1,13 @@
+{
+  "baselineViews": 0,
+  "baselineThrough": "New installation",
+  "timezone": "America/Toronto",
+  "home": {
+    "lat": 45.65,
+    "lon": -75.67,
+    "name": "John \u00b7 Val-des-Monts",
+    "label": "Val-des-Monts, Qu\u00e9bec",
+    "url": "https://automateyournetwork.com/about/",
+    "country": "CA"
+  }
+}

@@ -1,0 +1,4533 @@
+{
+  "source": "https://github.com/nvkelso/natural-earth-vector",
+  "attribution": "Natural Earth populated places, public domain",
+  "places": [
+    {
+      "id": "1159149089",
+      "name": "Andorra",
+      "country": "AD",
+      "region": null,
+      "lat": 42.5,
+      "lon": 1.52,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150565",
+      "name": "Abu Dhabi",
+      "country": "AE",
+      "region": "Abu Dhabi",
+      "lat": 24.47,
+      "lon": 54.37,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151497",
+      "name": "Dubai",
+      "country": "AE",
+      "region": "Dubay",
+      "lat": 25.23,
+      "lon": 55.28,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151561",
+      "name": "Kabul",
+      "country": "AF",
+      "region": "Kabul",
+      "lat": 34.52,
+      "lon": 69.18,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150457",
+      "name": "Saint John's",
+      "country": "AG",
+      "region": null,
+      "lat": 17.12,
+      "lon": -61.85,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151117",
+      "name": "Tirana",
+      "country": "AL",
+      "region": "Durrës",
+      "lat": 41.33,
+      "lon": 19.82,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151119",
+      "name": "Yerevan",
+      "country": "AM",
+      "region": "Erevan",
+      "lat": 40.18,
+      "lon": 44.51,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151131",
+      "name": "Huambo",
+      "country": "AO",
+      "region": "Huambo",
+      "lat": -12.75,
+      "lon": 15.76,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151469",
+      "name": "Luanda",
+      "country": "AO",
+      "region": "Luanda",
+      "lat": -8.84,
+      "lon": 13.23,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151559",
+      "name": "Buenos Aires",
+      "country": "AR",
+      "region": "Ciudad de Buenos Aires",
+      "lat": -34.6,
+      "lon": -58.4,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151105",
+      "name": "Córdoba",
+      "country": "AR",
+      "region": "Córdoba",
+      "lat": -31.4,
+      "lon": -64.18,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151563",
+      "name": "Vienna",
+      "country": "AT",
+      "region": "Wien",
+      "lat": 48.2,
+      "lon": 16.36,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151165",
+      "name": "Adelaide",
+      "country": "AU",
+      "region": "South Australia",
+      "lat": -34.93,
+      "lon": 138.6,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151169",
+      "name": "Brisbane",
+      "country": "AU",
+      "region": "Queensland",
+      "lat": -27.45,
+      "lon": 153.03,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151161",
+      "name": "Canberra",
+      "country": "AU",
+      "region": "Australian Capital Territory",
+      "lat": -35.28,
+      "lon": 149.13,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151565",
+      "name": "Melbourne",
+      "country": "AU",
+      "region": "Victoria",
+      "lat": -37.82,
+      "lon": 144.97,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151475",
+      "name": "Perth",
+      "country": "AU",
+      "region": "Western Australia",
+      "lat": -31.95,
+      "lon": 115.84,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151623",
+      "name": "Sydney",
+      "country": "AU",
+      "region": "New South Wales",
+      "lat": -33.92,
+      "lon": 151.18,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151123",
+      "name": "Baku",
+      "country": "AZ",
+      "region": "Baki",
+      "lat": 40.4,
+      "lon": 49.86,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151177",
+      "name": "Sarajevo",
+      "country": "BA",
+      "region": "Sarajevo",
+      "lat": 43.85,
+      "lon": 18.38,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150339",
+      "name": "Bridgetown",
+      "country": "BB",
+      "region": "Saint Michael",
+      "lat": 13.1,
+      "lon": -59.62,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151473",
+      "name": "Chattogram",
+      "country": "BD",
+      "region": "Chittagong",
+      "lat": 22.33,
+      "lon": 91.8,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151467",
+      "name": "Dhaka",
+      "country": "BD",
+      "region": "Dhaka",
+      "lat": 23.73,
+      "lon": 90.41,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151465",
+      "name": "Brussels",
+      "country": "BE",
+      "region": "Brussels",
+      "lat": 50.84,
+      "lon": 4.33,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151173",
+      "name": "Ouagadougou",
+      "country": "BF",
+      "region": "Kadiogo",
+      "lat": 12.37,
+      "lon": -1.53,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151147",
+      "name": "Sofia",
+      "country": "BG",
+      "region": "Grad Sofiya",
+      "lat": 42.69,
+      "lon": 23.31,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150451",
+      "name": "Manama",
+      "country": "BH",
+      "region": null,
+      "lat": 26.24,
+      "lon": 50.58,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150427",
+      "name": "Bujumbura",
+      "country": "BI",
+      "region": "Bujumbura Mairie",
+      "lat": -3.38,
+      "lon": 29.36,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151141",
+      "name": "Cotonou",
+      "country": "BJ",
+      "region": "Ouémé",
+      "lat": 6.4,
+      "lon": 2.52,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151185",
+      "name": "Hamilton",
+      "country": "BM",
+      "region": null,
+      "lat": 32.29,
+      "lon": -64.78,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151083",
+      "name": "Bandar Seri Begawan",
+      "country": "BN",
+      "region": "Brunei and Muara",
+      "lat": 4.88,
+      "lon": 114.93,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151133",
+      "name": "La Paz",
+      "country": "BO",
+      "region": "La Paz",
+      "lat": -16.5,
+      "lon": -68.15,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151135",
+      "name": "Santa Cruz",
+      "country": "BO",
+      "region": "Santa Cruz",
+      "lat": -17.75,
+      "lon": -63.23,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151095",
+      "name": "Sucre",
+      "country": "BO",
+      "region": "Chuquisaca",
+      "lat": -19.04,
+      "lon": -65.26,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150193",
+      "name": "Belo Horizonte",
+      "country": "BR",
+      "region": "Minas Gerais",
+      "lat": -19.91,
+      "lon": -43.92,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151441",
+      "name": "Belém",
+      "country": "BR",
+      "region": "Pará",
+      "lat": -1.45,
+      "lon": -48.48,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151443",
+      "name": "Brasília",
+      "country": "BR",
+      "region": "Distrito Federal",
+      "lat": -15.78,
+      "lon": -47.92,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151449",
+      "name": "Curitiba",
+      "country": "BR",
+      "region": "Paraná",
+      "lat": -25.42,
+      "lon": -49.32,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151021",
+      "name": "Florianópolis",
+      "country": "BR",
+      "region": "Santa Catarina",
+      "lat": -27.58,
+      "lon": -48.52,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151451",
+      "name": "Fortaleza",
+      "country": "BR",
+      "region": "Ceará",
+      "lat": -3.75,
+      "lon": -38.58,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151459",
+      "name": "Goiânia",
+      "country": "BR",
+      "region": "Goiás",
+      "lat": -16.72,
+      "lon": -49.3,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151005",
+      "name": "Manaus",
+      "country": "BR",
+      "region": "Amazonas",
+      "lat": -3.1,
+      "lon": -60.0,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151447",
+      "name": "Porto Alegre",
+      "country": "BR",
+      "region": "Rio Grande do Sul",
+      "lat": -30.05,
+      "lon": -51.2,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151461",
+      "name": "Recife",
+      "country": "BR",
+      "region": "Pernambuco",
+      "lat": -8.07,
+      "lon": -34.92,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151619",
+      "name": "Rio de Janeiro",
+      "country": "BR",
+      "region": "Rio de Janeiro",
+      "lat": -22.92,
+      "lon": -43.23,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151453",
+      "name": "Salvador",
+      "country": "BR",
+      "region": "Bahia",
+      "lat": -12.97,
+      "lon": -38.48,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151621",
+      "name": "São Paulo",
+      "country": "BR",
+      "region": "São Paulo",
+      "lat": -23.56,
+      "lon": -46.63,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151207",
+      "name": "Nassau",
+      "country": "BS",
+      "region": null,
+      "lat": 25.08,
+      "lon": -77.35,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151151",
+      "name": "Thimphu",
+      "country": "BT",
+      "region": "Thimphu",
+      "lat": 27.47,
+      "lon": 89.64,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151153",
+      "name": "Gaborone",
+      "country": "BW",
+      "region": "South-East",
+      "lat": -24.65,
+      "lon": 25.91,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151149",
+      "name": "Minsk",
+      "country": "BY",
+      "region": "Minsk",
+      "lat": 53.9,
+      "lon": 27.56,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151109",
+      "name": "Belmopan",
+      "country": "BZ",
+      "region": "Cayo",
+      "lat": 17.25,
+      "lon": -88.77,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151035",
+      "name": "Calgary",
+      "country": "CA",
+      "region": "Alberta",
+      "lat": 51.08,
+      "lon": -114.08,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151075",
+      "name": "Charlottetown",
+      "country": "CA",
+      "region": "Prince Edward Island",
+      "lat": 46.25,
+      "lon": -63.13,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151455",
+      "name": "Edmonton",
+      "country": "CA",
+      "region": "Alberta",
+      "lat": 53.55,
+      "lon": -113.5,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159148929",
+      "name": "Fredericton",
+      "country": "CA",
+      "region": "New Brunswick",
+      "lat": 45.95,
+      "lon": -66.63,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151069",
+      "name": "Halifax",
+      "country": "CA",
+      "region": "Nova Scotia",
+      "lat": 44.65,
+      "lon": -63.6,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159147659",
+      "name": "Hamilton",
+      "country": "CA",
+      "region": "Ontario",
+      "lat": 43.25,
+      "lon": -79.83,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150241",
+      "name": "Iqaluit",
+      "country": "CA",
+      "region": "Nunavut",
+      "lat": 63.75,
+      "lon": -68.5,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159131491",
+      "name": "Kitchener",
+      "country": "CA",
+      "region": "Ontario",
+      "lat": 43.45,
+      "lon": -80.5,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151457",
+      "name": "Montréal",
+      "country": "CA",
+      "region": "Québec",
+      "lat": 45.5,
+      "lon": -73.59,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159131481",
+      "name": "Oshawa",
+      "country": "CA",
+      "region": "Ontario",
+      "lat": 43.88,
+      "lon": -78.85,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151059",
+      "name": "Ottawa",
+      "country": "CA",
+      "region": "Ontario",
+      "lat": 45.42,
+      "lon": -75.7,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151065",
+      "name": "Québec",
+      "country": "CA",
+      "region": "Québec",
+      "lat": 46.84,
+      "lon": -71.25,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151029",
+      "name": "Regina",
+      "country": "CA",
+      "region": "Saskatchewan",
+      "lat": 50.45,
+      "lon": -104.62,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151071",
+      "name": "St. John's",
+      "country": "CA",
+      "region": "Newfoundland and Labrador",
+      "lat": 47.58,
+      "lon": -52.68,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151557",
+      "name": "Toronto",
+      "country": "CA",
+      "region": "Ontario",
+      "lat": 43.7,
+      "lon": -79.42,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151555",
+      "name": "Vancouver",
+      "country": "CA",
+      "region": "British Columbia",
+      "lat": 49.28,
+      "lon": -123.12,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151039",
+      "name": "Victoria",
+      "country": "CA",
+      "region": "British Columbia",
+      "lat": 48.43,
+      "lon": -123.35,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151053",
+      "name": "Whitehorse",
+      "country": "CA",
+      "region": "Yukon",
+      "lat": 60.72,
+      "lon": -135.05,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151025",
+      "name": "Winnipeg",
+      "country": "CA",
+      "region": "Manitoba",
+      "lat": 49.88,
+      "lon": -97.17,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151047",
+      "name": "Yellowknife",
+      "country": "CA",
+      "region": "Northwest Territories",
+      "lat": 62.44,
+      "lon": -114.4,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151539",
+      "name": "Kinshasa",
+      "country": "CD",
+      "region": "Kinshasa City",
+      "lat": -4.33,
+      "lon": 15.31,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150903",
+      "name": "Lubumbashi",
+      "country": "CD",
+      "region": "Katanga",
+      "lat": -11.68,
+      "lon": 27.48,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151111",
+      "name": "Bangui",
+      "country": "CF",
+      "region": "Bangui",
+      "lat": 4.37,
+      "lon": 18.56,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150993",
+      "name": "Brazzaville",
+      "country": "CG",
+      "region": "Pool",
+      "lat": -4.26,
+      "lon": 15.28,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149737",
+      "name": "Bern",
+      "country": "CH",
+      "region": "Bern",
+      "lat": 46.92,
+      "lon": 7.47,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151505",
+      "name": "Geneva",
+      "country": "CH",
+      "region": "Genève",
+      "lat": 46.21,
+      "lon": 6.14,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151271",
+      "name": "Zürich",
+      "country": "CH",
+      "region": "Zürich",
+      "lat": 47.38,
+      "lon": 8.55,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151439",
+      "name": "Abidjan",
+      "country": "CI",
+      "region": "Lagunes",
+      "lat": 5.32,
+      "lon": -4.04,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150999",
+      "name": "Yamoussoukro",
+      "country": "CI",
+      "region": "Lacs",
+      "lat": 6.82,
+      "lon": -5.28,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151615",
+      "name": "Santiago",
+      "country": "CL",
+      "region": "Región Metropolitana de Santiago",
+      "lat": -33.45,
+      "lon": -70.67,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151115",
+      "name": "Yaoundé",
+      "country": "CM",
+      "region": "Centre",
+      "lat": 3.87,
+      "lon": 11.51,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151395",
+      "name": "Baotou",
+      "country": "CN",
+      "region": "Nei Mongol",
+      "lat": 40.65,
+      "lon": 109.82,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151595",
+      "name": "Beijing",
+      "country": "CN",
+      "region": "Beijing",
+      "lat": 39.93,
+      "lon": 116.39,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151393",
+      "name": "Changchun",
+      "country": "CN",
+      "region": "Jilin",
+      "lat": 43.87,
+      "lon": 125.34,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151369",
+      "name": "Changsha",
+      "country": "CN",
+      "region": "Hunan",
+      "lat": 28.2,
+      "lon": 112.97,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151533",
+      "name": "Chengdu",
+      "country": "CN",
+      "region": "Sichuan",
+      "lat": 30.67,
+      "lon": 104.07,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151327",
+      "name": "Chongqing",
+      "country": "CN",
+      "region": "Chongqing",
+      "lat": 29.57,
+      "lon": 106.59,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149913",
+      "name": "Dalian",
+      "country": "CN",
+      "region": "Liaoning",
+      "lat": 38.92,
+      "lon": 121.63,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151333",
+      "name": "Dongguan",
+      "country": "CN",
+      "region": "Guangdong",
+      "lat": 23.05,
+      "lon": 113.74,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151329",
+      "name": "Fuzhou",
+      "country": "CN",
+      "region": "Fujian",
+      "lat": 26.08,
+      "lon": 119.3,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151331",
+      "name": "Guangzhou",
+      "country": "CN",
+      "region": "Guangdong",
+      "lat": 23.15,
+      "lon": 113.32,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151325",
+      "name": "Guiyang",
+      "country": "CN",
+      "region": "Guizhou",
+      "lat": 26.58,
+      "lon": 106.72,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151387",
+      "name": "Hangzhou",
+      "country": "CN",
+      "region": "Zhejiang",
+      "lat": 30.25,
+      "lon": 120.17,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151397",
+      "name": "Harbin",
+      "country": "CN",
+      "region": "Heilongjiang",
+      "lat": 45.75,
+      "lon": 126.65,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159139657",
+      "name": "Hechi",
+      "country": "CN",
+      "region": "Guangxi",
+      "lat": 24.7,
+      "lon": 108.08,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150823",
+      "name": "Huainan",
+      "country": "CN",
+      "region": "Anhui",
+      "lat": 32.63,
+      "lon": 116.98,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151379",
+      "name": "Jinan",
+      "country": "CN",
+      "region": "Shandong",
+      "lat": 36.68,
+      "lon": 116.99,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151371",
+      "name": "Kunming",
+      "country": "CN",
+      "region": "Yunnan",
+      "lat": 25.07,
+      "lon": 102.68,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151321",
+      "name": "Lanzhou",
+      "country": "CN",
+      "region": "Gansu",
+      "lat": 36.06,
+      "lon": 103.79,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151383",
+      "name": "Nanchang",
+      "country": "CN",
+      "region": "Jiangxi",
+      "lat": 28.68,
+      "lon": 115.88,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151385",
+      "name": "Nanjing",
+      "country": "CN",
+      "region": "Jiangsu",
+      "lat": 32.05,
+      "lon": 118.78,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151323",
+      "name": "Nanning",
+      "country": "CN",
+      "region": "Guangxi",
+      "lat": 22.82,
+      "lon": 108.32,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150895",
+      "name": "Qiqihar",
+      "country": "CN",
+      "region": "Heilongjiang",
+      "lat": 47.35,
+      "lon": 123.99,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151605",
+      "name": "Shanghai",
+      "country": "CN",
+      "region": "Shanghai",
+      "lat": 31.22,
+      "lon": 121.43,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150825",
+      "name": "Shantou",
+      "country": "CN",
+      "region": "Guangdong",
+      "lat": 23.37,
+      "lon": 116.67,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151377",
+      "name": "Shenyeng",
+      "country": "CN",
+      "region": "Liaoning",
+      "lat": 41.81,
+      "lon": 123.45,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151215",
+      "name": "Shenzhen",
+      "country": "CN",
+      "region": "Guangdong",
+      "lat": 22.55,
+      "lon": 114.12,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151365",
+      "name": "Taiyuan",
+      "country": "CN",
+      "region": "Shanxi",
+      "lat": 37.88,
+      "lon": 112.54,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151381",
+      "name": "Tianjin",
+      "country": "CN",
+      "region": "Tianjin",
+      "lat": 39.13,
+      "lon": 117.2,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151367",
+      "name": "Wuhan",
+      "country": "CN",
+      "region": "Hubei",
+      "lat": 30.58,
+      "lon": 114.27,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151363",
+      "name": "Xian",
+      "country": "CN",
+      "region": "Shaanxi",
+      "lat": 34.28,
+      "lon": 108.89,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150819",
+      "name": "Xining",
+      "country": "CN",
+      "region": "Gansu",
+      "lat": 36.62,
+      "lon": 101.77,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159139683",
+      "name": "Zhangzhou",
+      "country": "CN",
+      "region": "Fujian",
+      "lat": 24.52,
+      "lon": 117.67,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151375",
+      "name": "Zhengzhou",
+      "country": "CN",
+      "region": "Henan",
+      "lat": 34.76,
+      "lon": 113.66,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151217",
+      "name": "Zibo",
+      "country": "CN",
+      "region": "Shandong",
+      "lat": 36.8,
+      "lon": 118.05,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151531",
+      "name": "Ürümqi",
+      "country": "CN",
+      "region": "Xinjiang Uygur",
+      "lat": 43.81,
+      "lon": 87.57,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151601",
+      "name": "Bogota",
+      "country": "CO",
+      "region": "Bogota",
+      "lat": 4.6,
+      "lon": -74.09,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151345",
+      "name": "Cali",
+      "country": "CO",
+      "region": "Valle del Cauca",
+      "lat": 3.4,
+      "lon": -76.5,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151343",
+      "name": "Medellín",
+      "country": "CO",
+      "region": "Antioquia",
+      "lat": 6.28,
+      "lon": -75.58,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150849",
+      "name": "San José",
+      "country": "CR",
+      "region": "San José",
+      "lat": 9.94,
+      "lon": -84.09,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151347",
+      "name": "Havana",
+      "country": "CU",
+      "region": "Ciudad de la Habana",
+      "lat": 23.13,
+      "lon": -82.37,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151205",
+      "name": "Praia",
+      "country": "CV",
+      "region": null,
+      "lat": 14.92,
+      "lon": -23.52,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151209",
+      "name": "Nicosia",
+      "country": "CY",
+      "region": null,
+      "lat": 35.17,
+      "lon": 33.37,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151359",
+      "name": "Prague",
+      "country": "CZ",
+      "region": "Prague",
+      "lat": 50.09,
+      "lon": 14.46,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151529",
+      "name": "Berlin",
+      "country": "DE",
+      "region": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151351",
+      "name": "Frankfurt",
+      "country": "DE",
+      "region": "Hessen",
+      "lat": 50.1,
+      "lon": 8.68,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151353",
+      "name": "Hamburg",
+      "country": "DE",
+      "region": "Hamburg",
+      "lat": 53.55,
+      "lon": 10.0,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151357",
+      "name": "Munich",
+      "country": "DE",
+      "region": "Bayern",
+      "lat": 48.13,
+      "lon": 11.57,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149869",
+      "name": "Djibouti",
+      "country": "DJ",
+      "region": "Djibouti",
+      "lat": 11.6,
+      "lon": 43.15,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151437",
+      "name": "København",
+      "country": "DK",
+      "region": "Hovedstaden",
+      "lat": 55.68,
+      "lon": 12.56,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149847",
+      "name": "Roseau",
+      "country": "DM",
+      "region": "Saint George",
+      "lat": 15.3,
+      "lon": -61.39,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151401",
+      "name": "Santo Domingo",
+      "country": "DO",
+      "region": "Distrito Nacional",
+      "lat": 18.47,
+      "lon": -69.9,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151471",
+      "name": "Algiers",
+      "country": "DZ",
+      "region": "Alger",
+      "lat": 36.77,
+      "lon": 3.05,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151341",
+      "name": "Guayaquil",
+      "country": "EC",
+      "region": "Guayas",
+      "lat": -2.22,
+      "lon": -79.92,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150847",
+      "name": "Quito",
+      "country": "EC",
+      "region": "Pichincha",
+      "lat": -0.21,
+      "lon": -78.5,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150877",
+      "name": "Tallinn",
+      "country": "EE",
+      "region": "Harju",
+      "lat": 59.43,
+      "lon": 24.73,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151349",
+      "name": "Alexandria",
+      "country": "EG",
+      "region": "Al Iskandariyah",
+      "lat": 31.2,
+      "lon": 29.95,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151603",
+      "name": "Cairo",
+      "country": "EG",
+      "region": "Al Qahirah",
+      "lat": 30.05,
+      "lon": 31.25,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150873",
+      "name": "Asmara",
+      "country": "ER",
+      "region": "Anseba",
+      "lat": 15.33,
+      "lon": 38.93,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151261",
+      "name": "Barcelona",
+      "country": "ES",
+      "region": "Cataluña",
+      "lat": 41.39,
+      "lon": 2.18,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151503",
+      "name": "Madrid",
+      "country": "ES",
+      "region": "Comunidad de Madrid",
+      "lat": 40.4,
+      "lon": -3.69,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150601",
+      "name": "Seville",
+      "country": "ES",
+      "region": "Andalucía",
+      "lat": 37.41,
+      "lon": -5.98,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151549",
+      "name": "Addis Ababa",
+      "country": "ET",
+      "region": "Addis Ababa",
+      "lat": 9.04,
+      "lon": 38.7,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151419",
+      "name": "Helsinki",
+      "country": "FI",
+      "region": "Southern Finland",
+      "lat": 60.18,
+      "lon": 24.93,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150917",
+      "name": "Suva",
+      "country": "FJ",
+      "region": "Central",
+      "lat": -18.13,
+      "lon": 178.44,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149061",
+      "name": "Palikir",
+      "country": "FM",
+      "region": null,
+      "lat": 6.92,
+      "lon": 158.15,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150845",
+      "name": "Lyon",
+      "country": "FR",
+      "region": "Rhône-Alpes",
+      "lat": 45.77,
+      "lon": 4.83,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151613",
+      "name": "Paris",
+      "country": "FR",
+      "region": "Île-de-France",
+      "lat": 48.87,
+      "lon": 2.33,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150913",
+      "name": "Libreville",
+      "country": "GA",
+      "region": "Estuaire",
+      "lat": 0.39,
+      "lon": 9.46,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150591",
+      "name": "Glasgow",
+      "country": "GB",
+      "region": "Glasgow",
+      "lat": 55.88,
+      "lon": -4.25,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151577",
+      "name": "London",
+      "country": "GB",
+      "region": "Westminster",
+      "lat": 51.5,
+      "lon": -0.12,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150447",
+      "name": "Saint George's",
+      "country": "GD",
+      "region": null,
+      "lat": 12.05,
+      "lon": -61.74,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150961",
+      "name": "Tbilisi",
+      "country": "GE",
+      "region": "Tbilisi",
+      "lat": 41.73,
+      "lon": 44.79,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151403",
+      "name": "Accra",
+      "country": "GH",
+      "region": "Greater Accra",
+      "lat": 5.55,
+      "lon": -0.22,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149997",
+      "name": "Banjul",
+      "country": "GM",
+      "region": "Banjul",
+      "lat": 13.45,
+      "lon": -16.59,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150997",
+      "name": "Conakry",
+      "country": "GN",
+      "region": "Conakry",
+      "lat": 9.53,
+      "lon": -13.68,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150867",
+      "name": "Malabo",
+      "country": "GQ",
+      "region": "Bioko Norte",
+      "lat": 3.75,
+      "lon": 8.78,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151545",
+      "name": "Athens",
+      "country": "GR",
+      "region": "Attiki",
+      "lat": 37.99,
+      "lon": 23.73,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150909",
+      "name": "Guatemala City",
+      "country": "GT",
+      "region": "Guatemala",
+      "lat": 14.62,
+      "lon": -90.53,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150803",
+      "name": "Bissau",
+      "country": "GW",
+      "region": "Bissau",
+      "lat": 11.87,
+      "lon": -15.6,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150585",
+      "name": "Georgetown",
+      "country": "GY",
+      "region": "East Berbice-Corentyne",
+      "lat": 6.8,
+      "lon": -58.17,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151629",
+      "name": "Hong Kong",
+      "country": "HK",
+      "region": null,
+      "lat": 22.31,
+      "lon": 114.18,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150583",
+      "name": "Tegucigalpa",
+      "country": "HN",
+      "region": "Francisco Morazán",
+      "lat": 14.1,
+      "lon": -87.22,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150875",
+      "name": "Zagreb",
+      "country": "HR",
+      "region": "Grad Zagreb",
+      "lat": 45.8,
+      "lon": 16.0,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150589",
+      "name": "Port-au-Prince",
+      "country": "HT",
+      "region": "Ouest",
+      "lat": 18.54,
+      "lon": -72.34,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151257",
+      "name": "Budapest",
+      "country": "HU",
+      "region": "Budapest",
+      "lat": 47.5,
+      "lon": 19.08,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151335",
+      "name": "Bandung",
+      "country": "ID",
+      "region": "Jawa Barat",
+      "lat": -6.95,
+      "lon": 107.57,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151599",
+      "name": "Jakarta",
+      "country": "ID",
+      "region": "Jakarta Raya",
+      "lat": -6.17,
+      "lon": 106.83,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150843",
+      "name": "Makassar",
+      "country": "ID",
+      "region": "Sulawesi Selatan",
+      "lat": -5.14,
+      "lon": 119.43,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151307",
+      "name": "Medan",
+      "country": "ID",
+      "region": "Sumatera Utara",
+      "lat": 3.58,
+      "lon": 98.65,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150839",
+      "name": "Palembang",
+      "country": "ID",
+      "region": "Sumatera Selatan",
+      "lat": -2.98,
+      "lon": 104.75,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150837",
+      "name": "Semarang",
+      "country": "ID",
+      "region": "Jawa Tengah",
+      "lat": -6.96,
+      "lon": 110.42,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151339",
+      "name": "Surabaya",
+      "country": "ID",
+      "region": "Jawa Timur",
+      "lat": -7.25,
+      "lon": 112.75,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151309",
+      "name": "Dublin",
+      "country": "IE",
+      "region": "Dublin",
+      "lat": 53.34,
+      "lon": -6.25,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151203",
+      "name": "Jerusalem",
+      "country": "IL",
+      "region": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.21,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151417",
+      "name": "Tel Aviv",
+      "country": "IL",
+      "region": "Tel Aviv",
+      "lat": 32.08,
+      "lon": 34.77,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151433",
+      "name": "Ahmedabad",
+      "country": "IN",
+      "region": "Dadra and Nagar Haveli",
+      "lat": 23.03,
+      "lon": 72.58,
+      "kind": "Major city"
+    },
+    {
+      "id": "1730025037",
+      "name": "Amaravati",
+      "country": "IN",
+      "region": "Andhra Pradesh",
+      "lat": 16.53,
+      "lon": 80.52,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150975",
+      "name": "Amritsar",
+      "country": "IN",
+      "region": "Punjab",
+      "lat": 31.64,
+      "lon": 74.87,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150981",
+      "name": "Asansol",
+      "country": "IN",
+      "region": "West Bengal",
+      "lat": 23.69,
+      "lon": 86.98,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151543",
+      "name": "Bengaluru",
+      "country": "IN",
+      "region": "Karnataka",
+      "lat": 12.97,
+      "lon": 77.56,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150983",
+      "name": "Bhilai",
+      "country": "IN",
+      "region": "Chhattisgarh",
+      "lat": 21.22,
+      "lon": 81.43,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150985",
+      "name": "Bhopal",
+      "country": "IN",
+      "region": "Madhya Pradesh",
+      "lat": 23.25,
+      "lon": 77.41,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151431",
+      "name": "Chennai",
+      "country": "IN",
+      "region": "Tamil Nadu",
+      "lat": 13.09,
+      "lon": 80.28,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150989",
+      "name": "Coimbatore",
+      "country": "IN",
+      "region": "Tamil Nadu",
+      "lat": 11.0,
+      "lon": 76.95,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151405",
+      "name": "Delhi",
+      "country": "IN",
+      "region": "Delhi",
+      "lat": 28.67,
+      "lon": 77.23,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159142843",
+      "name": "Haora",
+      "country": "IN",
+      "region": "West Bengal",
+      "lat": 22.58,
+      "lon": 88.33,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151407",
+      "name": "Hyderabad",
+      "country": "IN",
+      "region": "Telangana",
+      "lat": 17.4,
+      "lon": 78.48,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151423",
+      "name": "Jaipur",
+      "country": "IN",
+      "region": "Rajasthan",
+      "lat": 26.92,
+      "lon": 75.81,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150467",
+      "name": "Jamshedpur",
+      "country": "IN",
+      "region": "Jharkhand",
+      "lat": 22.79,
+      "lon": 86.2,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151425",
+      "name": "Kanpur",
+      "country": "IN",
+      "region": "Uttar Pradesh",
+      "lat": 26.46,
+      "lon": 80.32,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151617",
+      "name": "Kolkata",
+      "country": "IN",
+      "region": "West Bengal",
+      "lat": 22.5,
+      "lon": 88.32,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150987",
+      "name": "Madurai",
+      "country": "IN",
+      "region": "Tamil Nadu",
+      "lat": 9.92,
+      "lon": 78.12,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151611",
+      "name": "Mumbai",
+      "country": "IN",
+      "region": "Maharashtra",
+      "lat": 19.02,
+      "lon": 72.86,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151413",
+      "name": "Nagpur",
+      "country": "IN",
+      "region": "Maharashtra",
+      "lat": 21.17,
+      "lon": 79.09,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151541",
+      "name": "New Delhi",
+      "country": "IN",
+      "region": "Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151429",
+      "name": "Patna",
+      "country": "IN",
+      "region": "Bihar",
+      "lat": 25.63,
+      "lon": 85.13,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151411",
+      "name": "Pune",
+      "country": "IN",
+      "region": "Maharashtra",
+      "lat": 18.53,
+      "lon": 73.85,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151435",
+      "name": "Surat",
+      "country": "IN",
+      "region": "Dadra and Nagar Haveli",
+      "lat": 21.2,
+      "lon": 72.84,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150979",
+      "name": "Varanasi",
+      "country": "IN",
+      "region": "Uttar Pradesh",
+      "lat": 25.33,
+      "lon": 83.0,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150915",
+      "name": "Vishakhapatnam",
+      "country": "IN",
+      "region": "Andhra Pradesh",
+      "lat": 17.73,
+      "lon": 83.3,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151547",
+      "name": "Baghdad",
+      "country": "IQ",
+      "region": "Baghdad",
+      "lat": 33.34,
+      "lon": 44.39,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150971",
+      "name": "Isfahan",
+      "country": "IR",
+      "region": "Esfahan",
+      "lat": 32.7,
+      "lon": 51.7,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151421",
+      "name": "Mashhad",
+      "country": "IR",
+      "region": "Razavi Khorasan",
+      "lat": 36.27,
+      "lon": 59.57,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150973",
+      "name": "Shiraz",
+      "country": "IR",
+      "region": "Fars",
+      "lat": 29.63,
+      "lon": 52.57,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151551",
+      "name": "Tehran",
+      "country": "IR",
+      "region": "Tehran",
+      "lat": 35.67,
+      "lon": 51.42,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150587",
+      "name": "Reykjavík",
+      "country": "IS",
+      "region": "Suðurnes",
+      "lat": 64.15,
+      "lon": -21.95,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151315",
+      "name": "Milan",
+      "country": "IT",
+      "region": "Lombardia",
+      "lat": 45.47,
+      "lon": 9.2,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151313",
+      "name": "Naples",
+      "country": "IT",
+      "region": "Campania",
+      "lat": 40.84,
+      "lon": 14.24,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151593",
+      "name": "Rome",
+      "country": "IT",
+      "region": "Lazio",
+      "lat": 41.9,
+      "lon": 12.48,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150855",
+      "name": "Kingston",
+      "country": "JM",
+      "region": "Kingston",
+      "lat": 17.98,
+      "lon": -76.77,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150807",
+      "name": "Amman",
+      "country": "JO",
+      "region": "Amman",
+      "lat": 31.95,
+      "lon": 35.93,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151389",
+      "name": "Hiroshima",
+      "country": "JP",
+      "region": "Hiroshima",
+      "lat": 34.39,
+      "lon": 132.44,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149959",
+      "name": "Nagoya",
+      "country": "JP",
+      "region": "Aichi",
+      "lat": 35.16,
+      "lon": 136.91,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151399",
+      "name": "Sapporo",
+      "country": "JP",
+      "region": "Hokkaido",
+      "lat": 43.08,
+      "lon": 141.34,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151609",
+      "name": "Tokyo",
+      "country": "JP",
+      "region": "Tokyo",
+      "lat": 35.69,
+      "lon": 139.75,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159147167",
+      "name": "Yokohama",
+      "country": "JP",
+      "region": "Kanagawa",
+      "lat": 35.43,
+      "lon": 139.6,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151537",
+      "name": "Ōsaka",
+      "country": "JP",
+      "region": "Osaka",
+      "lat": 34.75,
+      "lon": 135.46,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151597",
+      "name": "Nairobi",
+      "country": "KE",
+      "region": "Nairobi",
+      "lat": -1.28,
+      "lon": 36.81,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150813",
+      "name": "Bishkek",
+      "country": "KG",
+      "region": "Bishkek",
+      "lat": 42.88,
+      "lon": 74.58,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151127",
+      "name": "Phnom Penh",
+      "country": "KH",
+      "region": "Phnom Penh",
+      "lat": 11.55,
+      "lon": 104.91,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149079",
+      "name": "Tarawa",
+      "country": "KI",
+      "region": null,
+      "lat": 1.34,
+      "lon": 173.02,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149083",
+      "name": "Moroni",
+      "country": "KM",
+      "region": null,
+      "lat": -11.7,
+      "lon": 43.24,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150435",
+      "name": "Basseterre",
+      "country": "KN",
+      "region": null,
+      "lat": 17.3,
+      "lon": -62.72,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151303",
+      "name": "Pyongyang",
+      "country": "KP",
+      "region": "P'yongyang",
+      "lat": 39.02,
+      "lon": 125.75,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149599",
+      "name": "Busan",
+      "country": "KR",
+      "region": "Busan",
+      "lat": 35.1,
+      "lon": 129.01,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151523",
+      "name": "Seoul",
+      "country": "KR",
+      "region": "Seoul",
+      "lat": 37.57,
+      "lon": 127.0,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151361",
+      "name": "Kuwait City",
+      "country": "KW",
+      "region": "Al Kuwayt",
+      "lat": 29.37,
+      "lon": 47.98,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150969",
+      "name": "Almaty",
+      "country": "KZ",
+      "region": "Almaty",
+      "lat": 43.33,
+      "lon": 76.91,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150965",
+      "name": "Nur-Sultan",
+      "country": "KZ",
+      "region": "Aqmola",
+      "lat": 51.18,
+      "lon": 71.43,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150991",
+      "name": "Vientiane",
+      "country": "LA",
+      "region": "Vientiane [prefecture]",
+      "lat": 17.97,
+      "lon": 102.6,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150957",
+      "name": "Beirut",
+      "country": "LB",
+      "region": "Beirut",
+      "lat": 33.87,
+      "lon": 35.51,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150433",
+      "name": "Castries",
+      "country": "LC",
+      "region": null,
+      "lat": 14.0,
+      "lon": -61.0,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159146061",
+      "name": "Vaduz",
+      "country": "LI",
+      "region": null,
+      "lat": 47.13,
+      "lon": 9.52,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150719",
+      "name": "Colombo",
+      "country": "LK",
+      "region": "Colombo",
+      "lat": 6.93,
+      "lon": 79.86,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151311",
+      "name": "Monrovia",
+      "country": "LR",
+      "region": "Montserrado",
+      "lat": 6.31,
+      "lon": -10.8,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150831",
+      "name": "Maseru",
+      "country": "LS",
+      "region": "Maseru",
+      "lat": -29.32,
+      "lon": 27.48,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150809",
+      "name": "Vilnius",
+      "country": "LT",
+      "region": "Vilniaus",
+      "lat": 54.68,
+      "lon": 25.32,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159146437",
+      "name": "Luxembourg",
+      "country": "LU",
+      "region": "Luxembourg",
+      "lat": 49.61,
+      "lon": 6.13,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150811",
+      "name": "Riga",
+      "country": "LV",
+      "region": "Riga",
+      "lat": 56.95,
+      "lon": 24.1,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150953",
+      "name": "Banghazi",
+      "country": "LY",
+      "region": "Benghazi",
+      "lat": 32.12,
+      "lon": 20.06,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151415",
+      "name": "Tripoli",
+      "country": "LY",
+      "region": "Tajura' wa an Nawahi al Arba",
+      "lat": 32.89,
+      "lon": 13.18,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151521",
+      "name": "Casablanca",
+      "country": "MA",
+      "region": "Grand Casablanca",
+      "lat": 33.6,
+      "lon": -7.62,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150669",
+      "name": "Fez",
+      "country": "MA",
+      "region": "Fès - Boulemane",
+      "lat": 34.06,
+      "lon": -5.0,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150673",
+      "name": "Rabat",
+      "country": "MA",
+      "region": "Rabat - Salé - Zemmour - Zaer",
+      "lat": 34.03,
+      "lon": -6.84,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149077",
+      "name": "Monaco",
+      "country": "MC",
+      "region": null,
+      "lat": 43.74,
+      "lon": 7.41,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150677",
+      "name": "Chișinău",
+      "country": "MD",
+      "region": "Chisinau",
+      "lat": 47.01,
+      "lon": 28.86,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149511",
+      "name": "Podgorica",
+      "country": "ME",
+      "region": "Podgorica",
+      "lat": 42.47,
+      "lon": 19.27,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150835",
+      "name": "Antananarivo",
+      "country": "MG",
+      "region": "Antananarivo",
+      "lat": -18.91,
+      "lon": 47.51,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149063",
+      "name": "Majuro",
+      "country": "MH",
+      "region": null,
+      "lat": 7.1,
+      "lon": 171.38,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150073",
+      "name": "Skopje",
+      "country": "MK",
+      "region": "Centar",
+      "lat": 42.0,
+      "lon": 21.43,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150945",
+      "name": "Bamako",
+      "country": "ML",
+      "region": "Bamako",
+      "lat": 12.65,
+      "lon": -8.0,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151179",
+      "name": "Naypyidaw",
+      "country": "MM",
+      "region": "Mandalay",
+      "lat": 19.77,
+      "lon": 96.12,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151477",
+      "name": "Yangon",
+      "country": "MM",
+      "region": "Yangon",
+      "lat": 16.79,
+      "lon": 96.16,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150781",
+      "name": "Ulaanbaatar",
+      "country": "MN",
+      "region": "Ulaanbaatar",
+      "lat": 47.92,
+      "lon": 106.91,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150943",
+      "name": "Nouakchott",
+      "country": "MR",
+      "region": "Nouakchott",
+      "lat": 18.09,
+      "lon": -15.98,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151199",
+      "name": "Valletta",
+      "country": "MT",
+      "region": null,
+      "lat": 35.9,
+      "lon": 14.51,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150443",
+      "name": "Port Louis",
+      "country": "MU",
+      "region": null,
+      "lat": -20.17,
+      "lon": 57.5,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151201",
+      "name": "Malé",
+      "country": "MV",
+      "region": null,
+      "lat": 4.17,
+      "lon": 73.5,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150907",
+      "name": "Lilongwe",
+      "country": "MW",
+      "region": "Lilongwe",
+      "lat": -13.98,
+      "lon": 33.78,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151293",
+      "name": "Guadalajara",
+      "country": "MX",
+      "region": "Jalisco",
+      "lat": 20.67,
+      "lon": -103.33,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151587",
+      "name": "Mexico City",
+      "country": "MX",
+      "region": "Distrito Federal",
+      "lat": 19.44,
+      "lon": -99.13,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151527",
+      "name": "Monterrey",
+      "country": "MX",
+      "region": "Nuevo León",
+      "lat": 25.67,
+      "lon": -100.33,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151295",
+      "name": "Puebla",
+      "country": "MX",
+      "region": "Puebla",
+      "lat": 19.05,
+      "lon": -98.2,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150751",
+      "name": "Tijuana",
+      "country": "MX",
+      "region": "Baja California",
+      "lat": 32.5,
+      "lon": -117.08,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151317",
+      "name": "Kuala Lumpur",
+      "country": "MY",
+      "region": "Selangor",
+      "lat": 3.17,
+      "lon": 101.7,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150683",
+      "name": "Maputo",
+      "country": "MZ",
+      "region": "Maputo",
+      "lat": -25.95,
+      "lon": 32.59,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150785",
+      "name": "Windhoek",
+      "country": "NA",
+      "region": "Khomas",
+      "lat": -22.57,
+      "lon": 17.08,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150605",
+      "name": "Niamey",
+      "country": "NE",
+      "region": "Niamey",
+      "lat": 13.52,
+      "lon": 2.11,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150799",
+      "name": "Abuja",
+      "country": "NG",
+      "region": "Federal Capital Territory",
+      "lat": 9.09,
+      "lon": 7.53,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151297",
+      "name": "Kano",
+      "country": "NG",
+      "region": "Kano",
+      "lat": 12.0,
+      "lon": 8.52,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151591",
+      "name": "Lagos",
+      "country": "NG",
+      "region": "Lagos",
+      "lat": 6.45,
+      "lon": 3.39,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150623",
+      "name": "Managua",
+      "country": "NI",
+      "region": "Managua",
+      "lat": 12.15,
+      "lon": -86.27,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151519",
+      "name": "Amsterdam",
+      "country": "NL",
+      "region": "Noord-Holland",
+      "lat": 52.35,
+      "lon": 4.91,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151281",
+      "name": "Oslo",
+      "country": "NO",
+      "region": "Oslo",
+      "lat": 59.92,
+      "lon": 10.75,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150655",
+      "name": "Kathmandu",
+      "country": "NP",
+      "region": "Bhaktapur",
+      "lat": 27.72,
+      "lon": 85.31,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151703",
+      "name": "Auckland",
+      "country": "NZ",
+      "region": "Auckland",
+      "lat": -36.85,
+      "lon": 174.76,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151699",
+      "name": "Wellington",
+      "country": "NZ",
+      "region": "Manawatu-Wanganui",
+      "lat": -41.3,
+      "lon": 174.78,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150717",
+      "name": "Muscat",
+      "country": "OM",
+      "region": "Muscat",
+      "lat": 23.61,
+      "lon": 58.59,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150667",
+      "name": "Panama City",
+      "country": "PA",
+      "region": "Panama",
+      "lat": 8.97,
+      "lon": -79.53,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151511",
+      "name": "Lima",
+      "country": "PE",
+      "region": "Lima",
+      "lat": -12.05,
+      "lon": -77.05,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150663",
+      "name": "Port Moresby",
+      "country": "PG",
+      "region": "Central",
+      "lat": -9.46,
+      "lon": 147.19,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150727",
+      "name": "Davao",
+      "country": "PH",
+      "region": "Davao Del Sur",
+      "lat": 7.11,
+      "lon": 125.63,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151525",
+      "name": "Manila",
+      "country": "PH",
+      "region": "Metropolitan Manila",
+      "lat": 14.61,
+      "lon": 120.98,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150649",
+      "name": "Hyderabad",
+      "country": "PK",
+      "region": "Sind",
+      "lat": 25.38,
+      "lon": 68.37,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150645",
+      "name": "Islamabad",
+      "country": "PK",
+      "region": "F.C.T.",
+      "lat": 33.7,
+      "lon": 73.16,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151287",
+      "name": "Karachi",
+      "country": "PK",
+      "region": "Sind",
+      "lat": 24.87,
+      "lon": 66.99,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151285",
+      "name": "Lahore",
+      "country": "PK",
+      "region": "Punjab",
+      "lat": 31.56,
+      "lon": 74.35,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150647",
+      "name": "Multan",
+      "country": "PK",
+      "region": "Punjab",
+      "lat": 30.2,
+      "lon": 71.45,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150651",
+      "name": "Peshawar",
+      "country": "PK",
+      "region": "N.W.F.P.",
+      "lat": 34.01,
+      "lon": 71.53,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151299",
+      "name": "Warsaw",
+      "country": "PL",
+      "region": "Masovian",
+      "lat": 52.25,
+      "lon": 21.0,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151181",
+      "name": "San Juan",
+      "country": "PR",
+      "region": null,
+      "lat": 18.44,
+      "lon": -66.13,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151273",
+      "name": "Lisbon",
+      "country": "PT",
+      "region": "Lisboa",
+      "lat": 38.72,
+      "lon": -9.15,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149073",
+      "name": "Melekeok",
+      "country": "PW",
+      "region": null,
+      "lat": 7.49,
+      "lon": 134.63,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150621",
+      "name": "Asunción",
+      "country": "PY",
+      "region": "Asunción",
+      "lat": -25.29,
+      "lon": -57.64,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149469",
+      "name": "Doha",
+      "country": "QA",
+      "region": "Ad Dawhah",
+      "lat": 25.29,
+      "lon": 51.53,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151263",
+      "name": "Bucharest",
+      "country": "RO",
+      "region": "Bucharest",
+      "lat": 44.44,
+      "lon": 26.1,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151079",
+      "name": "Belgrade",
+      "country": "RS",
+      "region": "Grad Beograd",
+      "lat": 44.82,
+      "lon": 20.47,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150705",
+      "name": "Kazan",
+      "country": "RU",
+      "region": "Tatarstan",
+      "lat": 55.75,
+      "lon": 49.12,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151585",
+      "name": "Moscow",
+      "country": "RU",
+      "region": "Moskva",
+      "lat": 55.75,
+      "lon": 37.61,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150695",
+      "name": "Nizhny Novgorod",
+      "country": "RU",
+      "region": "Nizhegorod",
+      "lat": 56.33,
+      "lon": 44.0,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150713",
+      "name": "Novosibirsk",
+      "country": "RU",
+      "region": "Novosibirsk",
+      "lat": 55.03,
+      "lon": 82.96,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150703",
+      "name": "Samara",
+      "country": "RU",
+      "region": "Samara",
+      "lat": 53.2,
+      "lon": 50.15,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151291",
+      "name": "St.  Petersburg",
+      "country": "RU",
+      "region": "City of St. Petersburg",
+      "lat": 59.94,
+      "lon": 30.31,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150699",
+      "name": "Ufa",
+      "country": "RU",
+      "region": "Bashkortostan",
+      "lat": 54.79,
+      "lon": 56.04,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150701",
+      "name": "Yekaterinburg",
+      "country": "RU",
+      "region": "Sverdlovsk",
+      "lat": 56.85,
+      "lon": 60.6,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149385",
+      "name": "Kigali",
+      "country": "RW",
+      "region": "Kigali City",
+      "lat": -1.95,
+      "lon": 30.06,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151277",
+      "name": "Jeddah",
+      "country": "SA",
+      "region": "Makkah",
+      "lat": 21.52,
+      "lon": 39.22,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151279",
+      "name": "Makkah",
+      "country": "SA",
+      "region": "Makkah",
+      "lat": 21.43,
+      "lon": 39.82,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151581",
+      "name": "Riyadh",
+      "country": "SA",
+      "region": "Ar Riyad",
+      "lat": 24.64,
+      "lon": 46.77,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150665",
+      "name": "Honiara",
+      "country": "SB",
+      "region": "Guadalcanal",
+      "lat": -9.44,
+      "lon": 159.95,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151191",
+      "name": "Victoria",
+      "country": "SC",
+      "region": null,
+      "lat": -4.62,
+      "lon": 55.45,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151275",
+      "name": "Khartoum",
+      "country": "SD",
+      "region": "Khartoum",
+      "lat": 15.59,
+      "lon": 32.53,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151507",
+      "name": "Stockholm",
+      "country": "SE",
+      "region": "Stockholm",
+      "lat": 59.35,
+      "lon": 18.1,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151627",
+      "name": "Singapore",
+      "country": "SG",
+      "region": null,
+      "lat": 1.29,
+      "lon": 103.85,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149461",
+      "name": "Ljubljana",
+      "country": "SI",
+      "region": "Osrednjeslovenska",
+      "lat": 46.06,
+      "lon": 14.51,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149463",
+      "name": "Bratislava",
+      "country": "SK",
+      "region": "Bratislavský",
+      "lat": 48.15,
+      "lon": 17.12,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150625",
+      "name": "Freetown",
+      "country": "SL",
+      "region": "Western",
+      "lat": 8.47,
+      "lon": -13.24,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159146051",
+      "name": "San Marino",
+      "country": "SM",
+      "region": null,
+      "lat": 43.94,
+      "lon": 12.44,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151513",
+      "name": "Dakar",
+      "country": "SN",
+      "region": "Dakar",
+      "lat": 14.72,
+      "lon": -17.48,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150715",
+      "name": "Mogadishu",
+      "country": "SO",
+      "region": "Banaadir",
+      "lat": 2.07,
+      "lon": 45.36,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150597",
+      "name": "Paramaribo",
+      "country": "SR",
+      "region": "Paramaribo",
+      "lat": 5.84,
+      "lon": -55.17,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151195",
+      "name": "São Tomé",
+      "country": "ST",
+      "region": null,
+      "lat": 0.33,
+      "lon": 6.73,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150853",
+      "name": "San Salvador",
+      "country": "SV",
+      "region": "San Salvador",
+      "lat": 13.71,
+      "lon": -89.2,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151267",
+      "name": "Aleppo",
+      "country": "SY",
+      "region": "Aleppo (Halab)",
+      "lat": 36.23,
+      "lon": 37.17,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151269",
+      "name": "Damascus",
+      "country": "SY",
+      "region": "Damascus",
+      "lat": 33.5,
+      "lon": 36.3,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149413",
+      "name": "Mbabane",
+      "country": "SZ",
+      "region": "Hhohho",
+      "lat": -26.32,
+      "lon": 31.13,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150863",
+      "name": "N'Djamena",
+      "country": "TD",
+      "region": "Hadjer-Lamis",
+      "lat": 12.12,
+      "lon": 15.05,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150535",
+      "name": "Lomé",
+      "country": "TG",
+      "region": "Maritime",
+      "lat": 6.13,
+      "lon": 1.22,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151509",
+      "name": "Bangkok",
+      "country": "TH",
+      "region": "Bangkok Metropolis",
+      "lat": 13.75,
+      "lon": 100.51,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150609",
+      "name": "Dushanbe",
+      "country": "TJ",
+      "region": "Tadzhikistan Territories",
+      "lat": 38.56,
+      "lon": 68.77,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150577",
+      "name": "Dili",
+      "country": "TL",
+      "region": "Dili",
+      "lat": -8.56,
+      "lon": 125.58,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150567",
+      "name": "Ashgabat",
+      "country": "TM",
+      "region": "Ahal",
+      "lat": 37.95,
+      "lon": 58.38,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150537",
+      "name": "Tunis",
+      "country": "TN",
+      "region": "Tunis",
+      "lat": 36.8,
+      "lon": 10.18,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151187",
+      "name": "Nuku'alofa",
+      "country": "TO",
+      "region": null,
+      "lat": -21.14,
+      "lon": -175.22,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151255",
+      "name": "Ankara",
+      "country": "TR",
+      "region": "Ankara",
+      "lat": 39.93,
+      "lon": 32.86,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151579",
+      "name": "Istanbul",
+      "country": "TR",
+      "region": "Istanbul",
+      "lat": 41.11,
+      "lon": 29.01,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149307",
+      "name": "Port-of-Spain",
+      "country": "TT",
+      "region": "Port of Spain",
+      "lat": 10.65,
+      "lon": -61.52,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159149071",
+      "name": "Funafuti",
+      "country": "TV",
+      "region": null,
+      "lat": -8.52,
+      "lon": 179.22,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151213",
+      "name": "Kaohsiung",
+      "country": "TW",
+      "region": "Kaohsiung City",
+      "lat": 22.63,
+      "lon": 120.27,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149107",
+      "name": "New Taipei",
+      "country": "TW",
+      "region": "New Taipei City",
+      "lat": 25.01,
+      "lon": 121.47,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151567",
+      "name": "Taipei",
+      "country": "TW",
+      "region": "Taipei City",
+      "lat": 25.04,
+      "lon": 121.57,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151305",
+      "name": "Dar es Salaam",
+      "country": "TZ",
+      "region": "Dar-Es-Salaam",
+      "lat": -6.8,
+      "lon": 39.27,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151495",
+      "name": "Kyiv",
+      "country": "UA",
+      "region": "Kiev",
+      "lat": 50.44,
+      "lon": 30.51,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150593",
+      "name": "Kampala",
+      "country": "UG",
+      "region": "Kampala",
+      "lat": 0.32,
+      "lon": 32.58,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159133457",
+      "name": "Akron",
+      "country": "US",
+      "region": "Ohio",
+      "lat": 41.07,
+      "lon": -81.52,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159147463",
+      "name": "Albany",
+      "country": "US",
+      "region": "New York",
+      "lat": 42.67,
+      "lon": -73.82,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149237",
+      "name": "Albuquerque",
+      "country": "US",
+      "region": "New Mexico",
+      "lat": 35.1,
+      "lon": -106.64,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159125787",
+      "name": "Allentown",
+      "country": "US",
+      "region": "Pennsylvania",
+      "lat": 40.6,
+      "lon": -75.5,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159125647",
+      "name": "Annapolis",
+      "country": "US",
+      "region": "Maryland",
+      "lat": 38.98,
+      "lon": -76.49,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159124457",
+      "name": "Arlington",
+      "country": "US",
+      "region": "Texas",
+      "lat": 32.68,
+      "lon": -97.02,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151489",
+      "name": "Atlanta",
+      "country": "US",
+      "region": "Georgia",
+      "lat": 33.83,
+      "lon": -84.4,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149309",
+      "name": "Augusta",
+      "country": "US",
+      "region": "Maine",
+      "lat": 44.31,
+      "lon": -69.78,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159123565",
+      "name": "Aurora",
+      "country": "US",
+      "region": "Colorado",
+      "lat": 39.7,
+      "lon": -104.81,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149261",
+      "name": "Austin",
+      "country": "US",
+      "region": "Texas",
+      "lat": 30.27,
+      "lon": -97.74,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159147361",
+      "name": "Bakersfield",
+      "country": "US",
+      "region": "California",
+      "lat": 35.37,
+      "lon": -119.02,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149299",
+      "name": "Baltimore",
+      "country": "US",
+      "region": "Maryland",
+      "lat": 39.3,
+      "lon": -76.62,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149255",
+      "name": "Baton Rouge",
+      "country": "US",
+      "region": "Louisiana",
+      "lat": 30.46,
+      "lon": -91.14,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159123423",
+      "name": "Berkeley",
+      "country": "US",
+      "region": "California",
+      "lat": 37.87,
+      "lon": -122.27,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146259",
+      "name": "Birmingham",
+      "country": "US",
+      "region": "Alabama",
+      "lat": 33.53,
+      "lon": -86.82,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150475",
+      "name": "Bismarck",
+      "country": "US",
+      "region": "North Dakota",
+      "lat": 46.81,
+      "lon": -100.78,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159150477",
+      "name": "Boise",
+      "country": "US",
+      "region": "Idaho",
+      "lat": 43.61,
+      "lon": -116.23,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151239",
+      "name": "Boston",
+      "country": "US",
+      "region": "Massachusetts",
+      "lat": 42.33,
+      "lon": -71.07,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149115",
+      "name": "Bridgeport",
+      "country": "US",
+      "region": "Connecticut",
+      "lat": 41.18,
+      "lon": -73.2,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150529",
+      "name": "Buffalo",
+      "country": "US",
+      "region": "New York",
+      "lat": 42.88,
+      "lon": -78.88,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146205",
+      "name": "Carson City",
+      "country": "US",
+      "region": "Nevada",
+      "lat": 39.16,
+      "lon": -119.77,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159147433",
+      "name": "Charleston",
+      "country": "US",
+      "region": "South Carolina",
+      "lat": 32.79,
+      "lon": -79.99,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149297",
+      "name": "Charleston",
+      "country": "US",
+      "region": "West Virginia",
+      "lat": 38.35,
+      "lon": -81.63,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159147443",
+      "name": "Charlotte",
+      "country": "US",
+      "region": "North Carolina",
+      "lat": 35.21,
+      "lon": -80.83,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150493",
+      "name": "Cheyenne",
+      "country": "US",
+      "region": "Wyoming",
+      "lat": 41.14,
+      "lon": -104.82,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151491",
+      "name": "Chicago",
+      "country": "US",
+      "region": "Illinois",
+      "lat": 41.83,
+      "lon": -87.75,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150517",
+      "name": "Cincinnati",
+      "country": "US",
+      "region": "Ohio",
+      "lat": 39.16,
+      "lon": -84.46,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150515",
+      "name": "Cleveland",
+      "country": "US",
+      "region": "Ohio",
+      "lat": 41.47,
+      "lon": -81.7,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149229",
+      "name": "Colorado Springs",
+      "country": "US",
+      "region": "Colorado",
+      "lat": 38.86,
+      "lon": -104.79,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149287",
+      "name": "Columbia",
+      "country": "US",
+      "region": "South Carolina",
+      "lat": 34.04,
+      "lon": -80.9,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159147453",
+      "name": "Columbus",
+      "country": "US",
+      "region": "Ohio",
+      "lat": 39.98,
+      "lon": -82.99,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159147405",
+      "name": "Concord",
+      "country": "US",
+      "region": "New Hampshire",
+      "lat": 43.21,
+      "lon": -71.54,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159133431",
+      "name": "Covington",
+      "country": "US",
+      "region": "Kentucky",
+      "lat": 39.08,
+      "lon": -84.51,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151235",
+      "name": "Dallas",
+      "country": "US",
+      "region": "Texas",
+      "lat": 32.82,
+      "lon": -96.84,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146277",
+      "name": "Dayton",
+      "country": "US",
+      "region": "Ohio",
+      "lat": 39.75,
+      "lon": -84.2,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151483",
+      "name": "Denver",
+      "country": "US",
+      "region": "Colorado",
+      "lat": 39.74,
+      "lon": -104.99,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159150495",
+      "name": "Des Moines",
+      "country": "US",
+      "region": "Iowa",
+      "lat": 41.58,
+      "lon": -93.62,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151245",
+      "name": "Detroit",
+      "country": "US",
+      "region": "Michigan",
+      "lat": 42.33,
+      "lon": -83.08,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159125621",
+      "name": "Dover",
+      "country": "US",
+      "region": "Delaware",
+      "lat": 39.16,
+      "lon": -75.52,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149265",
+      "name": "El Paso",
+      "country": "US",
+      "region": "Texas",
+      "lat": 31.78,
+      "lon": -106.51,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159132565",
+      "name": "Everett",
+      "country": "US",
+      "region": "Washington",
+      "lat": 47.96,
+      "lon": -122.2,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159133279",
+      "name": "Fort Lauderdale",
+      "country": "US",
+      "region": "Florida",
+      "lat": 26.14,
+      "lon": -80.14,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146273",
+      "name": "Frankfort",
+      "country": "US",
+      "region": "Kentucky",
+      "lat": 38.2,
+      "lon": -84.87,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149225",
+      "name": "Fresno",
+      "country": "US",
+      "region": "California",
+      "lat": 36.75,
+      "lon": -119.77,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149257",
+      "name": "Ft.  Worth",
+      "country": "US",
+      "region": "Texas",
+      "lat": 32.74,
+      "lon": -97.34,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159133425",
+      "name": "Gary",
+      "country": "US",
+      "region": "Indiana",
+      "lat": 41.58,
+      "lon": -87.33,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159123343",
+      "name": "Glendale",
+      "country": "US",
+      "region": "Arizona",
+      "lat": 33.58,
+      "lon": -112.2,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159133737",
+      "name": "Grand Rapids",
+      "country": "US",
+      "region": "Michigan",
+      "lat": 42.96,
+      "lon": -85.67,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159147469",
+      "name": "Harrisburg",
+      "country": "US",
+      "region": "Pennsylvania",
+      "lat": 40.27,
+      "lon": -76.88,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159146255",
+      "name": "Hartford",
+      "country": "US",
+      "region": "Connecticut",
+      "lat": 41.77,
+      "lon": -72.68,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159150471",
+      "name": "Helena",
+      "country": "US",
+      "region": "Montana",
+      "lat": 46.59,
+      "lon": -112.04,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151221",
+      "name": "Honolulu",
+      "country": "US",
+      "region": "Hawaii",
+      "lat": 21.31,
+      "lon": -157.86,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151485",
+      "name": "Houston",
+      "country": "US",
+      "region": "Texas",
+      "lat": 29.82,
+      "lon": -95.34,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149289",
+      "name": "Indianapolis",
+      "country": "US",
+      "region": "Indiana",
+      "lat": 39.75,
+      "lon": -86.17,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159132667",
+      "name": "Irvine",
+      "country": "US",
+      "region": "California",
+      "lat": 33.68,
+      "lon": -117.83,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150511",
+      "name": "Jackson",
+      "country": "US",
+      "region": "Mississippi",
+      "lat": 32.3,
+      "lon": -90.18,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149281",
+      "name": "Jacksonville",
+      "country": "US",
+      "region": "Florida",
+      "lat": 30.33,
+      "lon": -81.67,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146229",
+      "name": "Jefferson City",
+      "country": "US",
+      "region": "Missouri",
+      "lat": 38.58,
+      "lon": -92.17,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159125051",
+      "name": "Joliet",
+      "country": "US",
+      "region": "Illinois",
+      "lat": 41.53,
+      "lon": -88.11,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150555",
+      "name": "Juneau",
+      "country": "US",
+      "region": "Alaska",
+      "lat": 58.31,
+      "lon": -134.42,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159123881",
+      "name": "Kansas City",
+      "country": "US",
+      "region": "Kansas",
+      "lat": 39.11,
+      "lon": -94.63,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149245",
+      "name": "Kansas City",
+      "country": "US",
+      "region": "Missouri",
+      "lat": 39.11,
+      "lon": -94.61,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149293",
+      "name": "Knoxville",
+      "country": "US",
+      "region": "Tennessee",
+      "lat": 35.97,
+      "lon": -83.92,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146293",
+      "name": "Lansing",
+      "country": "US",
+      "region": "Michigan",
+      "lat": 42.73,
+      "lon": -84.55,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149269",
+      "name": "Laredo",
+      "country": "US",
+      "region": "Texas",
+      "lat": 27.51,
+      "lon": -99.51,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150483",
+      "name": "Las Vegas",
+      "country": "US",
+      "region": "Nevada",
+      "lat": 36.21,
+      "lon": -115.22,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159147389",
+      "name": "Lincoln",
+      "country": "US",
+      "region": "Nebraska",
+      "lat": 40.82,
+      "lon": -96.68,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159146223",
+      "name": "Little Rock",
+      "country": "US",
+      "region": "Arkansas",
+      "lat": 34.74,
+      "lon": -92.33,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159146199",
+      "name": "Long Beach",
+      "country": "US",
+      "region": "California",
+      "lat": 33.79,
+      "lon": -118.16,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151569",
+      "name": "Los Angeles",
+      "country": "US",
+      "region": "California",
+      "lat": 33.99,
+      "lon": -118.18,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159147439",
+      "name": "Louisville",
+      "country": "US",
+      "region": "Kentucky",
+      "lat": 38.23,
+      "lon": -85.75,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159133203",
+      "name": "Lowell",
+      "country": "US",
+      "region": "Massachusetts",
+      "lat": 42.63,
+      "lon": -71.32,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146283",
+      "name": "Madison",
+      "country": "US",
+      "region": "Wisconsin",
+      "lat": 43.07,
+      "lon": -89.4,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159150521",
+      "name": "Memphis",
+      "country": "US",
+      "region": "Tennessee",
+      "lat": 35.12,
+      "lon": -90.0,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159123391",
+      "name": "Mesa",
+      "country": "US",
+      "region": "Arizona",
+      "lat": 33.42,
+      "lon": -111.74,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151487",
+      "name": "Miami",
+      "country": "US",
+      "region": "Florida",
+      "lat": 25.79,
+      "lon": -80.23,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159124765",
+      "name": "Miami Beach",
+      "country": "US",
+      "region": "Florida",
+      "lat": 25.81,
+      "lon": -80.13,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150525",
+      "name": "Milwaukee",
+      "country": "US",
+      "region": "Wisconsin",
+      "lat": 43.05,
+      "lon": -87.92,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151219",
+      "name": "Minneapolis",
+      "country": "US",
+      "region": "Minnesota",
+      "lat": 44.98,
+      "lon": -93.25,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149275",
+      "name": "Montgomery",
+      "country": "US",
+      "region": "Alabama",
+      "lat": 32.36,
+      "lon": -86.28,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159124647",
+      "name": "Montpelier",
+      "country": "US",
+      "region": "Vermont",
+      "lat": 44.26,
+      "lon": -72.58,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159150519",
+      "name": "Nashville",
+      "country": "US",
+      "region": "Tennessee",
+      "lat": 36.17,
+      "lon": -86.78,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159133199",
+      "name": "New Haven",
+      "country": "US",
+      "region": "Connecticut",
+      "lat": 41.33,
+      "lon": -72.9,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151233",
+      "name": "New Orleans",
+      "country": "US",
+      "region": "Louisiana",
+      "lat": 30.0,
+      "lon": -90.04,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151575",
+      "name": "New York",
+      "country": "US",
+      "region": "New York",
+      "lat": 40.75,
+      "lon": -73.98,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150523",
+      "name": "Norfolk",
+      "country": "US",
+      "region": "Virginia",
+      "lat": 36.85,
+      "lon": -76.28,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159147363",
+      "name": "Oakland",
+      "country": "US",
+      "region": "California",
+      "lat": 37.77,
+      "lon": -122.22,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159132659",
+      "name": "Oceanside",
+      "country": "US",
+      "region": "California",
+      "lat": 33.22,
+      "lon": -117.33,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150499",
+      "name": "Oklahoma City",
+      "country": "US",
+      "region": "Oklahoma",
+      "lat": 35.47,
+      "lon": -97.52,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149211",
+      "name": "Olympia",
+      "country": "US",
+      "region": "Washington",
+      "lat": 47.04,
+      "lon": -122.9,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159150497",
+      "name": "Omaha",
+      "country": "US",
+      "region": "Nebraska",
+      "lat": 41.24,
+      "lon": -96.01,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149279",
+      "name": "Orlando",
+      "country": "US",
+      "region": "Florida",
+      "lat": 28.51,
+      "lon": -81.38,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159124429",
+      "name": "Pasadena",
+      "country": "US",
+      "region": "Texas",
+      "lat": 29.66,
+      "lon": -95.15,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151243",
+      "name": "Philadelphia",
+      "country": "US",
+      "region": "Pennsylvania",
+      "lat": 40.0,
+      "lon": -75.17,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151225",
+      "name": "Phoenix",
+      "country": "US",
+      "region": "Arizona",
+      "lat": 33.54,
+      "lon": -112.07,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159150501",
+      "name": "Pierre",
+      "country": "US",
+      "region": "South Dakota",
+      "lat": 44.37,
+      "lon": -100.35,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159150531",
+      "name": "Pittsburgh",
+      "country": "US",
+      "region": "Pennsylvania",
+      "lat": 40.43,
+      "lon": -80.0,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150487",
+      "name": "Portland",
+      "country": "US",
+      "region": "Oregon",
+      "lat": 45.52,
+      "lon": -122.68,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146257",
+      "name": "Providence",
+      "country": "US",
+      "region": "Rhode Island",
+      "lat": 41.82,
+      "lon": -71.42,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159150513",
+      "name": "Raleigh",
+      "country": "US",
+      "region": "North Carolina",
+      "lat": 35.82,
+      "lon": -78.64,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149295",
+      "name": "Richmond",
+      "country": "US",
+      "region": "Virginia",
+      "lat": 37.55,
+      "lon": -77.45,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149117",
+      "name": "Rochester",
+      "country": "US",
+      "region": "New York",
+      "lat": 43.17,
+      "lon": -77.62,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150481",
+      "name": "Sacramento",
+      "country": "US",
+      "region": "California",
+      "lat": 38.58,
+      "lon": -121.47,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149239",
+      "name": "Salem",
+      "country": "US",
+      "region": "Oregon",
+      "lat": 44.93,
+      "lon": -123.02,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159150489",
+      "name": "Salt Lake City",
+      "country": "US",
+      "region": "Utah",
+      "lat": 40.78,
+      "lon": -111.93,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159150503",
+      "name": "San Antonio",
+      "country": "US",
+      "region": "Texas",
+      "lat": 29.49,
+      "lon": -98.51,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149113",
+      "name": "San Bernardino",
+      "country": "US",
+      "region": "California",
+      "lat": 34.12,
+      "lon": -117.3,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151227",
+      "name": "San Diego",
+      "country": "US",
+      "region": "California",
+      "lat": 32.82,
+      "lon": -117.18,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151479",
+      "name": "San Francisco",
+      "country": "US",
+      "region": "California",
+      "lat": 37.77,
+      "lon": -122.42,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150479",
+      "name": "San Jose",
+      "country": "US",
+      "region": "California",
+      "lat": 37.3,
+      "lon": -121.85,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159123519",
+      "name": "San Mateo",
+      "country": "US",
+      "region": "California",
+      "lat": 37.56,
+      "lon": -122.31,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150485",
+      "name": "Santa Fe",
+      "country": "US",
+      "region": "New Mexico",
+      "lat": 35.69,
+      "lon": -105.94,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159147415",
+      "name": "Sarasota",
+      "country": "US",
+      "region": "Florida",
+      "lat": 27.34,
+      "lon": -82.53,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151223",
+      "name": "Seattle",
+      "country": "US",
+      "region": "Washington",
+      "lat": 47.57,
+      "lon": -122.34,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159124605",
+      "name": "Springfield",
+      "country": "US",
+      "region": "Massachusetts",
+      "lat": 42.12,
+      "lon": -72.58,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146271",
+      "name": "Springfield",
+      "country": "US",
+      "region": "Illinois",
+      "lat": 39.82,
+      "lon": -89.65,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149197",
+      "name": "St.  Paul",
+      "country": "US",
+      "region": "Minnesota",
+      "lat": 44.94,
+      "lon": -93.08,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151231",
+      "name": "St. Louis",
+      "country": "US",
+      "region": "Missouri",
+      "lat": 38.64,
+      "lon": -90.24,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146267",
+      "name": "St. Petersburg",
+      "country": "US",
+      "region": "Florida",
+      "lat": 27.77,
+      "lon": -82.68,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159124569",
+      "name": "Stamford",
+      "country": "US",
+      "region": "Connecticut",
+      "lat": 41.05,
+      "lon": -73.54,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159132609",
+      "name": "Stockton",
+      "country": "US",
+      "region": "California",
+      "lat": 37.96,
+      "lon": -121.29,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149301",
+      "name": "Syracuse",
+      "country": "US",
+      "region": "New York",
+      "lat": 43.05,
+      "lon": -76.15,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146193",
+      "name": "Tacoma",
+      "country": "US",
+      "region": "Washington",
+      "lat": 47.21,
+      "lon": -122.52,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149277",
+      "name": "Tallahassee",
+      "country": "US",
+      "region": "Florida",
+      "lat": 30.45,
+      "lon": -84.28,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159151241",
+      "name": "Tampa",
+      "country": "US",
+      "region": "Florida",
+      "lat": 27.95,
+      "lon": -82.46,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159147451",
+      "name": "Toledo",
+      "country": "US",
+      "region": "Ohio",
+      "lat": 41.67,
+      "lon": -83.58,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149243",
+      "name": "Topeka",
+      "country": "US",
+      "region": "Kansas",
+      "lat": 39.05,
+      "lon": -95.67,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159146287",
+      "name": "Trenton",
+      "country": "US",
+      "region": "New Jersey",
+      "lat": 40.22,
+      "lon": -74.74,
+      "kind": "State / province capital"
+    },
+    {
+      "id": "1159149221",
+      "name": "Tucson",
+      "country": "US",
+      "region": "Arizona",
+      "lat": 32.21,
+      "lon": -110.89,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149247",
+      "name": "Tulsa",
+      "country": "US",
+      "region": "Oklahoma",
+      "lat": 36.12,
+      "lon": -95.93,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159149217",
+      "name": "Vancouver",
+      "country": "US",
+      "region": "Washington",
+      "lat": 45.63,
+      "lon": -122.64,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146281",
+      "name": "Virginia Beach",
+      "country": "US",
+      "region": "Virginia",
+      "lat": 36.86,
+      "lon": -75.98,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151573",
+      "name": "Washington,  D.C.",
+      "country": "US",
+      "region": "District of Columbia",
+      "lat": 38.9,
+      "lon": -77.01,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159147411",
+      "name": "West Palm Beach",
+      "country": "US",
+      "region": "Florida",
+      "lat": 26.75,
+      "lon": -80.12,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159146227",
+      "name": "Wichita",
+      "country": "US",
+      "region": "Kansas",
+      "lat": 37.72,
+      "lon": -97.33,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150469",
+      "name": "Montevideo",
+      "country": "UY",
+      "region": "Montevideo",
+      "lat": -34.86,
+      "lon": -56.17,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151501",
+      "name": "Tashkent",
+      "country": "UZ",
+      "region": "Tashkent",
+      "lat": 41.31,
+      "lon": 69.29,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159127243",
+      "name": "Vatican City",
+      "country": "VA",
+      "region": "Lazio",
+      "lat": 41.9,
+      "lon": 12.45,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150431",
+      "name": "Kingstown",
+      "country": "VC",
+      "region": null,
+      "lat": 13.15,
+      "lon": -61.21,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151493",
+      "name": "Caracas",
+      "country": "VE",
+      "region": "Distrito Capital",
+      "lat": 10.5,
+      "lon": -66.92,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151237",
+      "name": "Maracaibo",
+      "country": "VE",
+      "region": "Zulia",
+      "lat": 10.73,
+      "lon": -71.66,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150507",
+      "name": "Valencia",
+      "country": "VE",
+      "region": "Carabobo",
+      "lat": 10.23,
+      "lon": -67.98,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151251",
+      "name": "Hanoi",
+      "country": "VN",
+      "region": "Thái Nguyên",
+      "lat": 21.04,
+      "lon": 105.85,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151253",
+      "name": "Ho Chi Minh City",
+      "country": "VN",
+      "region": "H? Chí Minh city",
+      "lat": 10.78,
+      "lon": 106.69,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150579",
+      "name": "Port Vila",
+      "country": "VU",
+      "region": "Shefa",
+      "lat": -17.73,
+      "lon": 168.32,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151197",
+      "name": "Apia",
+      "country": "WS",
+      "region": null,
+      "lat": -13.84,
+      "lon": -171.74,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150595",
+      "name": "Aden",
+      "country": "YE",
+      "region": "`Adan",
+      "lat": 12.78,
+      "lon": 45.01,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151259",
+      "name": "Sanaa",
+      "country": "YE",
+      "region": "Amanat Al Asimah",
+      "lat": 15.36,
+      "lon": 44.2,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150659",
+      "name": "Bloemfontein",
+      "country": "ZA",
+      "region": "Orange Free State",
+      "lat": -29.12,
+      "lon": 26.23,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151583",
+      "name": "Cape Town",
+      "country": "ZA",
+      "region": "Western Cape",
+      "lat": -33.92,
+      "lon": 18.43,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159151289",
+      "name": "Durban",
+      "country": "ZA",
+      "region": "KwaZulu-Natal",
+      "lat": -29.86,
+      "lon": 30.98,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159151515",
+      "name": "Johannesburg",
+      "country": "ZA",
+      "region": "Gauteng",
+      "lat": -26.17,
+      "lon": 28.03,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150681",
+      "name": "Port Elizabeth",
+      "country": "ZA",
+      "region": "Eastern Cape",
+      "lat": -33.97,
+      "lon": 25.6,
+      "kind": "Major city"
+    },
+    {
+      "id": "1159150661",
+      "name": "Pretoria",
+      "country": "ZA",
+      "region": "Gauteng",
+      "lat": -25.7,
+      "lon": 28.23,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150571",
+      "name": "Lusaka",
+      "country": "ZM",
+      "region": "Lusaka",
+      "lat": -15.41,
+      "lon": 28.28,
+      "kind": "National capital"
+    },
+    {
+      "id": "1159150573",
+      "name": "Harare",
+      "country": "ZW",
+      "region": "Harare",
+      "lat": -17.82,
+      "lon": 31.04,
+      "kind": "National capital"
+    }
+  ]
+}

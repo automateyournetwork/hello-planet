@@ -1,0 +1,322 @@
+{
+  "format": 1,
+  "date": "2026-11-24",
+  "scope": "Homepage visitor globe, counter and supporting service only",
+  "files": [
+    {
+      "file": ".gitignore",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "52500a7e104b74751c0767c1455c82f47c2a07194683ab8957b73f7597e86e28",
+      "bytes": 66
+    },
+    {
+      "file": "ATTRIBUTION.md",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "77e21cbdeadef9bf681fab5f8df0aa24ced01256c7d08bce6209cd7f7dc5bab4",
+      "bytes": 2123
+    },
+    {
+      "file": "HOW-IT-WAS-BUILT.md",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "ac0a92138c4d344c7ade95a2bc5b41382dce9a790d7f501baebb4c2604670e76",
+      "bytes": 14676
+    },
+    {
+      "file": "README.md",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "f13be4cfdbe6139acf49e1e59ea7abb088879996da173b1a516a7ec3e735cf20",
+      "bytes": 1556
+    },
+    {
+      "file": "VERIFICATION.md",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "8ee9333f6fe8f99fc86e3d76d46e9b8f9d06a134c78227928e6ecd9343a6aab3",
+      "bytes": 1792
+    },
+    {
+      "file": "astro.config.mjs",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "0a155391f3137cf24ddab4e4aa46296fb41cde59c4cb7ab2f08d54f77c6454ac",
+      "bytes": 525
+    },
+    {
+      "file": "licenses/topojson-client-LICENSE.txt",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "4c4d15b635e04e691825a76db7d33f7f2033b55669a7430011694f31e6c65999",
+      "bytes": 734
+    },
+    {
+      "file": "licenses/world-atlas-LICENSE.txt",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "8048290dfdb6e83fbed17e8985c8cfc4ce9da9b842642f3d3e497280790cfa31",
+      "bytes": 734
+    },
+    {
+      "file": "package-lock.json",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "ce3bb6ad8728476d0c18ed4beeca8ae726ed72077c68244723941d4121a2e5b4",
+      "bytes": 192685
+    },
+    {
+      "file": "package.json",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "b801dc9a9a949ab048d20ce54d33a64ca61c1f45cfaaedcb34008b71cc0645c3",
+      "bytes": 909
+    },
+    {
+      "file": "public/data/canada-province-borders.json",
+      "source": "public/data/canada-province-borders.json",
+      "sha256": "a3522ad492690497f3a36089f265572e547e2df2d1fafe83d3d00947097a4ca6",
+      "modified": false,
+      "bytes": 177997
+    },
+    {
+      "file": "public/data/us-state-borders.json",
+      "source": "public/data/us-state-borders.json",
+      "sha256": "bd2ce3541612970db0c9e29d8ee4cf2e6a2a653fa08aa3df2b3e12a72060c18b",
+      "modified": false,
+      "bytes": 54176
+    },
+    {
+      "file": "public/data/world-borders.json",
+      "source": "public/data/world-borders.json",
+      "sha256": "2149b6564130df11c01a1a00cc82fff307c536ab908627a5407fd1fae3e29d04",
+      "modified": false,
+      "bytes": 115327
+    },
+    {
+      "file": "public/images/home-flags.svg",
+      "source": "public/images/home-flags.svg",
+      "sha256": "979412922fcf0846f8d44c0f87ab0eaa3fee305f145a328a4ca409728e2c6bba",
+      "modified": false,
+      "bytes": 804
+    },
+    {
+      "file": "scripts/prepare-globe-geography.py",
+      "source": "scripts/prepare-globe-geography.py",
+      "sha256": "2a675b6a27cf22f8cae577defa9d1a2da5f57a1d7a5cc8a22ebad67e3a15bc02",
+      "modified": false,
+      "bytes": 2938
+    },
+    {
+      "file": "scripts/prepare-us-borders.mjs",
+      "source": "scripts/prepare-us-borders.mjs",
+      "sha256": "200db2f0a04166f74a6b55b2b19f3eadaca324e190394ce0e4af718dd682f860",
+      "modified": false,
+      "bytes": 751
+    },
+    {
+      "file": "server/data/regions.json",
+      "source": "server/data/regions.json",
+      "sha256": "52c541b4d73620e346aea0d623a0d12cdf66ee83914e56a1b2eb755099d5fdbe",
+      "modified": false,
+      "bytes": 598746
+    },
+    {
+      "file": "server/geolocation.mjs",
+      "source": "server/geolocation.mjs",
+      "sha256": "b130689e553447f8c15c32ef2722b4c077a22403f25a1600f9f7b6ca98f4f209",
+      "modified": false,
+      "bytes": 2496
+    },
+    {
+      "file": "server/php/SETUP.md",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "b77a0d60d61176250df078431ebab5e882b1d630893c7b983f0495000580f319",
+      "bytes": 1728
+    },
+    {
+      "file": "server/php/composer.json",
+      "source": "server/php/composer.json",
+      "sha256": "ece80e050019c64801f461442d7007877f87339e97981fa7b04076e09c93f2c6",
+      "modified": false,
+      "bytes": 336
+    },
+    {
+      "file": "server/php/composer.lock",
+      "source": "server/php/composer.lock",
+      "sha256": "6085ce489053ef8f0e2c9bf7714dbd1343d227d8684f29b1604d85d9ace78aa8",
+      "modified": false,
+      "bytes": 3317
+    },
+    {
+      "file": "server/php/traffic.php",
+      "source": "server/php/traffic.php",
+      "sha256": "70c1f33a854458a69615f880f9e0c99cc145184c39af174c581262bea178952d",
+      "modified": false,
+      "bytes": 7765
+    },
+    {
+      "file": "server/preview.mjs",
+      "source": "server/review.mjs",
+      "modified": true,
+      "change": "Adapted local static review server to bind loopback and use port 4337.",
+      "sha256": "ceefe4cf80a8580e060ef925c91f8e490187e6ec21d536354794bd92e3598ae2",
+      "bytes": 2324
+    },
+    {
+      "file": "server/traffic.mjs",
+      "source": "server/traffic.mjs",
+      "sha256": "e448a6398ab5cca7c69bd54019a7a1398b1302491f6b5e8f15e910f73572e07c",
+      "modified": false,
+      "bytes": 6488
+    },
+    {
+      "file": "src/components/HitCounter.astro",
+      "source": "src/components/HitCounter.astro",
+      "sha256": "c74371a660e776b58d70a9fd193492909486968282d1af904202b4d18f196c5d",
+      "modified": false,
+      "bytes": 610
+    },
+    {
+      "file": "src/components/Network.astro",
+      "source": "src/components/Network.astro",
+      "sha256": "0dec5861134e4eab2c77025a62abea5dca188aa569181f0abee395bffd95c346",
+      "modified": false,
+      "bytes": 7159
+    },
+    {
+      "file": "src/data/globe-landmarks.json",
+      "source": "src/data/globe-landmarks.json",
+      "sha256": "6cc1e97fec5845c4801f47683b94cc05e11e9bb29e033ce3029731fc7a35250e",
+      "modified": false,
+      "bytes": 94870
+    },
+    {
+      "file": "src/data/jetpack-monthly.json",
+      "source": "src/data/jetpack-monthly.json",
+      "modified": true,
+      "change": "Retained only public aggregate fields consumed by the globe/counter; omitted unrelated report sections and source-image metadata.",
+      "sha256": "6b6f0650b4a1815f4356f77af743be20d3c0a13129e3419e7e49ca3c45b19cb0",
+      "bytes": 971
+    },
+    {
+      "file": "src/data/jetpack-summary.json",
+      "source": "src/data/jetpack-summary.json",
+      "modified": true,
+      "change": "Retained only public aggregate fields consumed by the globe/counter; omitted unrelated report sections and source-image metadata.",
+      "sha256": "39851338d50a419b3deba2d9a986065d1f005cb2e99398acd84241f3ef6e49a5",
+      "bytes": 1358
+    },
+    {
+      "file": "src/data/traffic-history.json",
+      "source": "src/data/traffic-history.json",
+      "modified": true,
+      "change": "Retained only public aggregate fields consumed by the globe/counter; omitted unrelated report sections and source-image metadata.",
+      "sha256": "73be0cd7bd4aa20f0841430dee4b42aa30e4ae0f41c427afe8d6d8f7773e878a",
+      "bytes": 1408
+    },
+    {
+      "file": "src/lib/connections.ts",
+      "source": "src/lib/connections.ts",
+      "sha256": "551774009faa4e4127f5b898e36ab19ce156847e069466c122082d2aff91522a",
+      "modified": false,
+      "bytes": 1143
+    },
+    {
+      "file": "src/lib/globe.ts",
+      "source": "src/lib/globe.ts",
+      "sha256": "97d2f07d5ab9ecc280279a940dae50467eceb468dc96c39b50ab1fe81e6a8095",
+      "modified": false,
+      "bytes": 29647
+    },
+    {
+      "file": "src/lib/hit-counter.ts",
+      "source": "src/lib/hit-counter.ts",
+      "sha256": "742a112677b75be757004d0416699bc4184b36fc0806497ec596ad0f3735e534",
+      "modified": false,
+      "bytes": 2498
+    },
+    {
+      "file": "src/lib/visitor.ts",
+      "source": "src/lib/visitor.ts",
+      "sha256": "e056c37e7b7392335c6a601ddc9e9f27719edb1a2a0a7e1bee8c0b0fe4995639",
+      "modified": false,
+      "bytes": 1531
+    },
+    {
+      "file": "src/pages/404.astro",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "37f6fb05599f60c37ef538f1af280bb8c483a20f8ad2a072de061370f75871b0",
+      "bytes": 226
+    },
+    {
+      "file": "src/pages/index.astro",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "49a920dd35f1d88ab227e7dadd7126947c6e7a94d5654897da4b50133586b04a",
+      "bytes": 1165
+    },
+    {
+      "file": "src/styles/demo.css",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "6369e6338918cd4e5306cf85e16afe8b52baa975985e8bf5a86e711225986223",
+      "bytes": 1372
+    },
+    {
+      "file": "src/styles/globe.css",
+      "source": "Selected globe/counter rules from global.css, observatory.css, connectivity.css and topics.css",
+      "modified": true,
+      "change": "Unrelated site selectors omitted; media-query order retained.",
+      "sha256": "f6e11901d80ac7514f41031d2e32078d22951e550bc6a50c3b9b089c47d75bbb",
+      "bytes": 11979
+    },
+    {
+      "file": "tests/connections.test.mjs",
+      "source": "tests/connections.test.mjs",
+      "sha256": "f77c214f9ea6415dd0e46b420ebba54583ef5de0b32bdd0f183f78f09f2473cc",
+      "modified": false,
+      "bytes": 841
+    },
+    {
+      "file": "tests/geolocation.test.mjs",
+      "source": "tests/geolocation.test.mjs",
+      "sha256": "253552bf7bb1b2dda53c271337feec06a46bbc0ddeb6f121ba5e1c8e05c6f63f",
+      "modified": false,
+      "bytes": 3570
+    },
+    {
+      "file": "tests/traffic-php.test.mjs",
+      "source": "tests/traffic-php.test.mjs",
+      "sha256": "dd5d448945a165a0e116a1a8150e769d6460e99c3bd6213e2cf2ff521cffb94a",
+      "modified": false,
+      "bytes": 4456
+    },
+    {
+      "file": "tests/traffic.test.mjs",
+      "source": "tests/traffic.test.mjs",
+      "sha256": "f7fa296fb5d4846dd1f80b0f976ceaa6142e2e6d539188f772ee453119083232",
+      "modified": false,
+      "bytes": 6485
+    },
+    {
+      "file": "tsconfig.json",
+      "source": "Standalone handoff documentation/demo or third-party license",
+      "modified": true,
+      "sha256": "9a84251f29ec031a4ef32c5de4dd342c3568ad2f2dc1eea5735f7dc2883bc581",
+      "bytes": 120
+    }
+  ],
+  "excludes": [
+    "Git metadata and remotes",
+    "credentials and environment files",
+    "production visitor records and raw logs",
+    "GeoIP MMDB",
+    "unrelated site pages and features",
+    "node_modules and generated build/state",
+    "Genie Worlds source and media"
+  ]
+}

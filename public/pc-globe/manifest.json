@@ -1,0 +1,39 @@
+{
+  "retrieved": "2026-11-24",
+  "countries": {
+    "source": "https://github.com/mledoze/countries",
+    "count": 250,
+    "file": "countries.json",
+    "sha256": "e55afd1c21cc2012de977ab06b649cde0946889e6b94b82c17d3ac910c4abd31",
+    "license": "ODbL-1.0"
+  },
+  "flags": {
+    "source": "https://github.com/lipis/flag-icons",
+    "count": 250,
+    "license": "MIT"
+  },
+  "map": {
+    "source": "https://github.com/topojson/world-atlas",
+    "version": "2.0.2",
+    "input": "countries-110m.json",
+    "geometryCount": 177,
+    "file": "map.json",
+    "sha256": "5fce58353d434da22f8d0b90282de42e2ce87817fef04f5c0807943f721327e5",
+    "license": "Natural Earth public domain; world-atlas ISC"
+  },
+  "anthems": {
+    "source": "https://github.com/MarianBecher/anthem-scores",
+    "version": "0.1.1",
+    "countries": 43,
+    "melodies": 36,
+    "license": "Per file: public domain or CC BY-SA; preserved in JSON and CREDITS.md"
+  },
+  "font": {
+    "source": "https://int10h.org/oldschool-pc-fonts/",
+    "version": "2.2",
+    "name": "WebPlus IBM VGA 8x16",
+    "file": "ibm-vga.woff",
+    "license": "CC BY-SA 4.0"
+  },
+  "originalSoftwareIncluded": false
+}

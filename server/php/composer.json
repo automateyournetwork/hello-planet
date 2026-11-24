@@ -1,0 +1,6 @@
+{
+  "name": "automateyournetwork/visitor-collector",
+  "description": "Private GeoIP runtime for the first-party visitor collector",
+  "require": { "php": ">=8.1", "ext-pdo": "*", "ext-pdo_sqlite": "*", "maxmind-db/reader": "1.13.1" },
+  "config": { "vendor-dir": "../../private/production-analytics/vendor", "allow-plugins": false }
+}

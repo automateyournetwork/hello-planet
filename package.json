@@ -1,0 +1,42 @@
+{
+  "name": "hello-planet",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1 --port 4337",
+    "build": "astro build",
+    "preview": "node server/preview.mjs",
+    "check": "astro check",
+    "test": "node --experimental-strip-types --test tests/traffic.test.mjs tests/geolocation.test.mjs tests/connections.test.mjs",
+    "test:php": "node --test tests/traffic-php.test.mjs",
+    "test:browser": "playwright test"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "5.3.0",
+    "@fontsource-variable/space-grotesk": "5.3.0",
+    "@fontsource/ibm-plex-mono": "5.3.0",
+    "astro": "7.4.13",
+    "ipaddr.js": "2.5.0",
+    "maxmind": "5.0.7",
+    "three": "0.186.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@axe-core/playwright": "4.13.0",
+    "@playwright/test": "1.63.0",
+    "@types/node": "26.6.2",
+    "@types/three": "0.186.0",
+    "typescript": "6.0.3"
+  },
+  "description": "A Three.js website counter, visitor globe, and PC Globe inspired atlas. An idea. A spec. A loop.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/automateyournetwork/hello-planet.git"
+  },
+  "author": "John Capobianco"
+}

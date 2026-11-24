@@ -1,0 +1,18 @@
+---
+import Network from '../components/Network.astro';
+import '@fontsource-variable/inter';
+import '@fontsource-variable/space-grotesk';
+import '@fontsource/ibm-plex-mono/400.css';
+import '../styles/demo.css';
+import '../styles/globe.css';
+import '../styles/atlas.css';
+---
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="description" content="The website counter grew up. A Three.js visitor globe and PC Globe inspired retro atlas, by John Capobianco."/><title>Hello, Planet · the people behind the dots</title></head>
+<body data-visitor-endpoint="/api/traffic/">
+<main class="demo-shell"><header><p class="eyebrow cyan">OPEN SOURCE · THREE.JS · MADE TO BE YOURS</p><h1>Hello, <span style="color:var(--cyan)">Planet.</span></h1><p style="font-size:1.4rem;color:var(--ink)">The website counter grew up.<br/>The wonder stayed.</p><p>From visitor 000042 to a world you can explore. A little reminder that somebody, somewhere, connected with something you made.</p><p><a class="text-link" href="https://github.com/automateyournetwork/hello-planet">★ Star on GitHub</a> · <a class="text-link" href="https://github.com/automateyournetwork/hello-planet/fork">Fork your own world ↗</a></p></header><Network expanded /><footer style="margin-top:32px"><p>On localhost, choose <strong>Show example visitors</strong> for demonstration pins. They never enter the counter. History is John's sample data. <strong>PC GLOBE</strong> opens a retro atlas: countries, flags, visitor layers, a 503-place city directory, and optional synth music.</p><p style="margin-top:20px">Built by <a class="text-link" href="https://automateyournetwork.com/about/">John Capobianco</a>. An idea. A spec. A loop.</p></footer></main>
+<script>
+import {startVisitorCounter} from '../lib/visitor';
+startVisitorCounter(document.body.dataset.visitorEndpoint || '');
+</script>
+</body></html>

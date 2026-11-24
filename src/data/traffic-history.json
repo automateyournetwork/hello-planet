@@ -1,0 +1,84 @@
+{
+  "source": "Google Analytics via MonsterInsights backup cache",
+  "range": {
+    "endDate": "2026-09-19",
+    "name": null,
+    "startDate": "2026-08-21"
+  },
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States",
+      "lat": 38,
+      "lon": -97,
+      "sessions": 416
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "sessions": 305
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "lat": 16,
+      "lon": 108,
+      "sessions": 108
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "lat": 35,
+      "lon": 105,
+      "sessions": 82
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "lat": 54,
+      "lon": -2,
+      "sessions": 71
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "lat": 56,
+      "lon": -106,
+      "sessions": 60
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "lat": -10,
+      "lon": -52,
+      "sessions": 47
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "lat": 22,
+      "lon": 79,
+      "sessions": 45
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "lat": -25,
+      "lon": 134,
+      "sessions": 31
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "lat": 51,
+      "lon": 10,
+      "sessions": 30
+    }
+  ],
+  "totals": {
+    "pageviews": 1860,
+    "totalusers": 1358
+  }
+}

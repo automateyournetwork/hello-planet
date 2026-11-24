@@ -1,0 +1,49 @@
+{
+  "source": "Jetpack All-time insights · owner-supplied screenshot",
+  "through": "2026-09-24",
+  "totalViews": 78373,
+  "annual": [
+    {
+      "year": 2020,
+      "views": 3521,
+      "coverage": "November–December shown",
+      "partial": true
+    },
+    {
+      "year": 2021,
+      "views": 19438,
+      "coverage": "January–December",
+      "partial": false
+    },
+    {
+      "year": 2022,
+      "views": 10844,
+      "coverage": "January–December",
+      "partial": false
+    },
+    {
+      "year": 2023,
+      "views": 8275,
+      "coverage": "January–December",
+      "partial": false
+    },
+    {
+      "year": 2024,
+      "views": 11300,
+      "coverage": "January–December",
+      "partial": false
+    },
+    {
+      "year": 2025,
+      "views": 7139,
+      "coverage": "January–December",
+      "partial": false
+    },
+    {
+      "year": 2026,
+      "views": 17856,
+      "coverage": "Through September 24",
+      "partial": true
+    }
+  ]
+}

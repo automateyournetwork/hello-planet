@@ -1,0 +1,79 @@
+{
+  "source": "Jetpack Stats · owner-provided dashboard transcription",
+  "range": {
+    "start": "2024-01-01",
+    "end": "2026-09-24"
+  },
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States",
+      "views": 14133,
+      "lat": 39.83,
+      "lon": -98.58
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "views": 2711,
+      "lat": 20.59,
+      "lon": 78.96
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "views": 1843,
+      "lat": 55.38,
+      "lon": -3.44
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "views": 1800,
+      "lat": 56.13,
+      "lon": -106.35
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "views": 1477,
+      "lat": 51.17,
+      "lon": 10.45
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "views": 967,
+      "lat": 35.86,
+      "lon": 104.2
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "views": 879,
+      "lat": -25.27,
+      "lon": 133.78
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "views": 839,
+      "lat": 46.23,
+      "lon": 2.21
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "views": 775,
+      "lat": 52.13,
+      "lon": 5.29
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "views": 694,
+      "lat": 1.35,
+      "lon": 103.82
+    }
+  ]
+}
