@@ -54,6 +54,6 @@ test('production PHP rejects forged origins, malformed events, oversized bodies 
 test('production PHP serializes simultaneous view writes without losing counts',async()=>{
  const f=await fixture();try{
   const results=await Promise.all(Array.from({length:20},(_,i)=>{const id=`44444444-2222-3333-4444-${String(i).padStart(12,'0')}`;return f.post({...view,event:id,page:id,session:id});}));
-  assert.ok(results.every(r=>r.ok));const s=await f.get();assert.equal(s.totalViews,20);assert.equal(s.lifetimeViews,78393);assert.equal(s.active,20);
+  assert.ok(results.every(r=>r.ok));const s=await f.get();assert.equal(s.totalViews,20);assert.equal(s.lifetimeViews,20);assert.equal(s.active,20);
  }finally{await f.close();}
 });

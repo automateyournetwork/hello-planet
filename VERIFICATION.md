@@ -14,6 +14,8 @@ This records the standalone release, including the finished PC GLOBE visitor atl
 - Markdown local links checked. Allowlisted-source review and secret-pattern scanning found no private keys, recognizable tokens, credential-bearing URLs, or private machine paths in publishable files. Runtime databases, GeoIP MMDBs, private exports, original DOS software, and repository history from the personal website are excluded.
 - All 298 public PC GLOBE assets from the verified website release are included with their source/license notices. Only the standalone source configuration and sample-history labels are adapted.
 
+The first Linux PHP run caught one inherited test expectation still adding John’s historical baseline to 20 concurrent writes. The standalone counter correctly returned 20; the fixture now expects the new zero-baseline behavior.
+
 A browser-test update was needed because the finished retro interface puts the city gazetteer inside a collapsible panel. The test now opens that panel before interacting. No product behavior was weakened to make the test pass.
 
 ## CI and practical limits
